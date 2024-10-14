@@ -1,0 +1,202 @@
+[
+  {
+    "index": "1",
+    "wealth": "￥7750",
+    "rank": "",
+    "name": "杰夫·贝佐斯",
+    "age": "54",
+    "enterName": "亚马逊",
+    "industry": "在线零售",
+    "picUrl": "https://res.hurun.cn/photo/002174_Jeff_Bezos.jpg"
+  },
+  {
+    "index": "2",
+    "wealth": "￥6450",
+    "rank": "",
+    "name": "沃伦·巴菲特",
+    "age": "88",
+    "enterName": "伯克希尔·哈撒韦",
+    "industry": "投资",
+    "picUrl": "https://res.hurun.cn/photo/002176_Warren_Buffett.jpg"
+  },
+  {
+    "index": "3",
+    "wealth": "￥5700",
+    "rank": "",
+    "name": "比尔·盖茨",
+    "age": "63",
+    "enterName": "微软",
+    "industry": "投资",
+    "picUrl": "https://res.hurun.cn/photo/002175_Bill_Gates.jpg"
+  },
+  {
+    "index": "4",
+    "wealth": "￥5000",
+    "rank": "",
+    "name": "马克·扎克伯格",
+    "age": "34",
+    "enterName": "Facebook",
+    "industry": "科技",
+    "picUrl": "https://res.hurun.cn/photo/002178_Mark_Zuckerberg.jpg"
+  },
+  {
+    "index": "5",
+    "wealth": "￥4900",
+    "rank": "",
+    "name": "伯纳德·阿诺特",
+    "age": "69",
+    "enterName": "酩悦·轩尼诗",
+    "industry": "单一品牌零售",
+    "picUrl": "https://res.hurun.cn/photo/002177_Bernard_Arnault.jpg"
+  },
+  {
+    "index": "6",
+    "wealth": "￥4600",
+    "rank": "",
+    "name": "阿曼西奥·奥特加",
+    "age": "82",
+    "enterName": "蒂则诺",
+    "industry": "单一品牌零售",
+    "picUrl": "https://res.hurun.cn/photo/002180_Amancio_Ortega.jpg"
+  },
+  {
+    "index": "7",
+    "wealth": "￥4250",
+    "rank": "",
+    "name": "卡洛斯·斯利姆·埃卢",
+    "age": "78",
+    "enterName": "墨西哥美洲电信公司",
+    "industry": "投资",
+    "picUrl": "https://res.hurun.cn/photo/002179_Carlos_Slim_Helu.jpg"
+  },
+  {
+    "index": "8",
+    "wealth": "￥3400",
+    "rank": "",
+    "name": "拉里·埃里森",
+    "age": "74",
+    "enterName": "甲骨文",
+    "industry": "科技",
+    "picUrl": "https://res.hurun.cn/photo/002184_Larry_Ellison.jpg"
+  },
+  {
+    "index": "9",
+    "wealth": "￥3150",
+    "rank": "",
+    "name": "拉里·佩奇",
+    "age": "45",
+    "enterName": "谷歌",
+    "industry": "科技",
+    "picUrl": "https://res.hurun.cn/photo/002183_Larry_Page.jpg"
+  },
+  {
+    "index": "10",
+    "wealth": "￥3100",
+    "rank": "",
+    "name": "迈克尔·布隆伯格",
+    "age": "76",
+    "enterName": "彭博",
+    "industry": "传媒",
+    "picUrl": "https://res.hurun.cn/photo/002193_Michael_Bloomberg.jpg"
+  },
+  {
+    "index": "11",
+    "wealth": "￥3050",
+    "rank": "",
+    "name": "爱丽丝·沃尔顿",
+    "age": "69",
+    "enterName": "沃尔玛",
+    "industry": "多品牌零售",
+    "picUrl": "https://res.hurun.cn/photo/002191_Alice_Walton.jpg"
+  },
+  {
+    "index": "12",
+    "wealth": "￥3050",
+    "rank": "",
+    "name": "查尔斯·科赫",
+    "age": "83",
+    "enterName": "科氏工业",
+    "industry": "能源",
+    "picUrl": "https://res.hurun.cn/photo/002188_Charles_Koch.jpg"
+  },
+  {
+    "index": "13",
+    "wealth": "￥3050",
+    "rank": "",
+    "name": "大卫·科赫",
+    "age": "78",
+    "enterName": "科氏工业",
+    "industry": "能源",
+    "picUrl": "https://res.hurun.cn/default/icon_men.jpg"
+  },
+  {
+    "index": "14",
+    "wealth": "￥3050",
+    "rank": "",
+    "name": "吉姆·沃尔顿",
+    "age": "70",
+    "enterName": "沃尔玛",
+    "industry": "多品牌零售",
+    "picUrl": "https://res.hurun.cn/photo/002186_Jim_Walton.jpg"
+  },
+  {
+    "index": "15",
+    "wealth": "￥2950",
+    "rank": "",
+    "name": "马化腾",
+    "age": "47",
+    "enterName": "腾讯",
+    "industry": "IT娱乐",
+    "picUrl": "https://dingyue.ws.126.net/jg7u3hFQfWFUH7x4YAMJI0El33v0YCxKAc3BkKIXM=JtN1523690397663.gif"
+  },
+  {
+    "index": "16",
+    "wealth": "￥2950",
+    "rank": "",
+    "name": "罗伯森·沃尔顿",
+    "age": "74",
+    "enterName": "沃尔玛",
+    "industry": "多品牌零售",
+    "picUrl": "https://res.hurun.cn/photo/002187_Robson_Walton.jpg"
+  },
+  {
+    "index": "17",
+    "wealth": "￥2900",
+    "rank": "",
+    "name": "谢尔盖·布林",
+    "age": "45",
+    "enterName": "谷歌",
+    "industry": "科技",
+    "picUrl": "https://res.hurun.cn/photo/002182_Sergey_Brin.jpg"
+  },
+  {
+    "index": "18",
+    "wealth": "￥2900",
+    "rank": "",
+    "name": "弗朗索瓦丝·贝当古·梅耶尔",
+    "age": "65",
+    "enterName": "欧莱雅",
+    "industry": "化妆品",
+    "picUrl": "https://res.hurun.cn/photo/002185_Francoise_Bettencourt_Meyers.jpg"
+  },
+  {
+    "index": "19",
+    "wealth": "￥2850",
+    "rank": "",
+    "name": "穆克什·安巴尼",
+    "age": "61",
+    "enterName": "瑞来斯",
+    "industry": "石油天然气",
+    "picUrl": "https://res.hurun.cn/photo/002181_Mukesh_Ambani.jpg"
+  },
+  {
+    "index": "20",
+    "wealth": "￥2600",
+    "rank": "",
+    "name": "贝特朗·皮埃奇",
+    "age": "82",
+    "enterName": "爱马仕",
+    "industry": "单一品牌零售",
+    "picUrl": "https://res.hurun.cn/photo/002188_Bertrand_Puech.jpg"
+  }
+]

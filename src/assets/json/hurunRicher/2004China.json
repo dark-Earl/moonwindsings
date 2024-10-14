@@ -1,0 +1,215 @@
+[
+  {
+    "index": "1",
+    "wealth": "￥105",
+    "rank": "",
+    "name": "黄光裕",
+    "age": "35",
+    "enterName": "鹏润投资",
+    "industry": "家电零售北京房地产",
+    "picUrl": "https://img1.baidu.com/it/u=2455903661,2300770717&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=417",
+    "picUrl2": "https://img0.baidu.com/it/u=2088008617,4251867905&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=388"
+  },
+  {
+    "index": "2",
+    "wealth": "￥88",
+    "rank": "",
+    "name": "陈天桥",
+    "age": "31",
+    "enterName": "盛大网路",
+    "industry": "在线游戏",
+    "picUrl": "https://res.hurun.cn/photo/000065_Chen_Tianqiao.jpg"
+  },
+  {
+    "index": "3",
+    "wealth": "￥85",
+    "rank": "",
+    "name": "荣智健",
+    "age": "62",
+    "enterName": "中信泰富集团",
+    "industry": "航空基础建设房地产和电信",
+    "picUrl": "https://img1.baidu.com/it/u=1739350828,251139699&fm=253&fmt=auto&app=138&f=JPEG?w=438&h=258",
+    "picUrl2": "https://img1.baidu.com/it/u=1739350828,251139699&fm=253&fmt=auto&app=138&f=JPEG?w=438&h=258"
+  },
+  {
+    "index": "4",
+    "wealth": "￥70",
+    "rank": "",
+    "name": "许荣茂",
+    "age": "54",
+    "enterName": "世茂集团",
+    "industry": "上海北京和福州的房地产饭店",
+    "picUrl": "https://p1.itc.cn/q_70/images03/20201008/d485a9616097416aaadf1406a9b72fcb.gif",
+    "picUrl2": "https://img0.baidu.com/it/u=1705325922,506442662&fm=253&fmt=auto&app=138&f=JPEG?w=330&h=390"
+  },
+  {
+    "index": "5",
+    "wealth": "￥61",
+    "rank": "",
+    "name": "鲁冠球",
+    "age": "59",
+    "enterName": "万向集团",
+    "industry": "汽车配件金融",
+    "picUrl": "https://img0.baidu.com/it/u=1275561093,2157094224&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=400",
+    "picUrl2": "https://img0.baidu.com/it/u=2055447205,2206597272&fm=253&fmt=auto&app=120&f=JPEG?w=1098&h=800"
+  },
+  {
+    "index": "6",
+    "wealth": "￥60",
+    "rank": "",
+    "name": "李金元",
+    "age": "46",
+    "enterName": "天狮集团",
+    "industry": "保健品直销",
+    "picUrl": "https://img0.baidu.com/it/u=1547368427,2498259596&fm=253&fmt=auto&app=138&f=JPEG?w=390&h=500",
+    "picUrl2": "https://img2.baidu.com/it/u=235018861,1315403041&fm=253&fmt=auto&app=138&f=JPEG?w=499&h=375"
+  },
+  {
+    "index": "7",
+    "wealth": "￥50",
+    "rank": "",
+    "name": "陈丽华",
+    "age": "63",
+    "enterName": "香港富华国际集团",
+    "industry": "北京房地产紫檀博物馆",
+    "picUrl": "https://img1.baidu.com/it/u=2841742348,1364603887&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=598",
+    "picUrl2": "https://img2.baidu.com/it/u=4168950641,3449590353&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=763"
+  },
+  {
+    "index": "8",
+    "wealth": "￥50",
+    "rank": "",
+    "name": "丁磊",
+    "age": "33",
+    "enterName": "网易公司",
+    "industry": "在线游戏短信服务门户网站",
+    "picUrl": "https://5b0988e595225.cdn.sohucs.com/images/20180921/783f9932827d47dcb7a689486e07cb12.gif"
+  },
+  {
+    "index": "9",
+    "wealth": "￥45",
+    "rank": "",
+    "name": "刘永好",
+    "age": "53",
+    "enterName": "新希望集团",
+    "industry": "饲料金融房地产乳制品",
+    "picUrl": "https://res.hurun.cn/photo/000026_Liu_Yonghao.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1584006822,1975011203&fm=253&fmt=auto&app=138&f=JPEG?w=746&h=500"
+  },
+  {
+    "index": "10",
+    "wealth": "￥45",
+    "rank": "",
+    "name": "叶立培",
+    "age": "60",
+    "enterName": "仲盛集团",
+    "industry": "上海房地产",
+    "picUrl": "https://img2.baidu.com/it/u=1265731480,2499646602&fm=253&fmt=auto&app=138&f=JPEG?w=175&h=219"
+  },
+  {
+    "index": "11",
+    "wealth": "￥45",
+    "rank": "",
+    "name": "朱孟依家族",
+    "age": "45",
+    "enterName": "合生创展",
+    "industry": "广东北京上海和天津房地产",
+    "picUrl": "https://img0.baidu.com/it/u=3707458347,3269351880&fm=253&fmt=auto&app=138&f=JPEG?w=413&h=493",
+    "picUrl2": "https://img0.baidu.com/it/u=1228101895,3871901262&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=333"
+  },
+  {
+    "index": "12",
+    "wealth": "￥42",
+    "rank": "",
+    "name": "刘永行",
+    "age": "56",
+    "enterName": "东方希望集团",
+    "industry": "饲料电解铝",
+    "picUrl": "https://res.hurun.cn/photo/000030_Liu_Yongxing.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=36103913,1996496624&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=336"
+  },
+  {
+    "index": "13",
+    "wealth": "￥42",
+    "rank": "",
+    "name": "孙广信",
+    "age": "42",
+    "enterName": "广汇集团",
+    "industry": "液化天然气汽车贸易会展和物流乌鲁木齐房地产",
+    "picUrl": "https://res.hurun.cn/photo/000108_Sun_Guangxin.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=3170322436,642920284&fm=253&fmt=auto&app=120&f=JPEG?w=1139&h=745"
+  },
+  {
+    "index": "14",
+    "wealth": "￥37",
+    "rank": "",
+    "name": "杜厦",
+    "age": "57",
+    "enterName": "家世界集团",
+    "industry": "巨型超级市场家居连锁店",
+    "picUrl": "https://img1.baidu.com/it/u=38737147,591190090&fm=253&fmt=auto&app=138&f=JPEG?w=450&h=299"
+  },
+  {
+    "index": "15",
+    "wealth": "￥35",
+    "rank": "",
+    "name": "周建和",
+    "age": "41",
+    "enterName": "庄胜集团",
+    "industry": "北京房地产酒店和国际贸易",
+    "picUrl": "https://img2.baidu.com/it/u=1625652634,2401001749&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"
+  },
+  {
+    "index": "16",
+    "wealth": "￥34",
+    "rank": "",
+    "name": "刘方",
+    "age": "999",
+    "enterName": "源信行投资",
+    "industry": "保险",
+    "picUrl": "https://img0.baidu.com/it/u=12650294,380053079&fm=253&fmt=auto&app=138&f=JPG?w=500&h=334"
+  },
+  {
+    "index": "17",
+    "wealth": "￥33",
+    "rank": "",
+    "name": "郭广昌",
+    "age": "37",
+    "enterName": "复星高科技集团",
+    "industry": "上海房地产钢材医药",
+    "picUrl": "https://res.hurun.cn/photo/000045_Guo_Guangchang.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=3979608557,3980783180&fm=253&fmt=auto&app=138&f=JPEG?w=580&h=330"
+  },
+  {
+    "index": "18",
+    "wealth": "￥33",
+    "rank": "",
+    "name": "严彬",
+    "age": "50",
+    "enterName": "华彬国际集团",
+    "industry": "国际贸易物业经营管理功能饮料",
+    "picUrl": "https://img1.baidu.com/it/u=2107775297,3072155434&fm=253&fmt=auto&app=138&f=JPEG?w=637&h=500",
+    "picUrl2": "https://img0.baidu.com/it/u=568059438,4146177780&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=744"
+  },
+  {
+    "index": "19",
+    "wealth": "￥30",
+    "rank": "",
+    "name": "黄茂如",
+    "age": "39",
+    "enterName": "茂业集团",
+    "industry": "零售和房地产",
+    "picUrl": "https://img0.baidu.com/it/u=942202477,1880858409&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=425"
+  },
+  {
+    "index": "20",
+    "wealth": "￥30",
+    "rank": "",
+    "name": "李兆会",
+    "age": "23",
+    "enterName": "山西海鑫钢铁",
+    "industry": "钢材产品",
+    "picUrl": "https://img2.baidu.com/it/u=3655657266,961008979&fm=253&fmt=auto&app=120&f=JPEG?w=949&h=638",
+    "picUrl2": "https://img0.baidu.com/it/u=1209195017,2463176420&fm=253&fmt=auto&app=138&f=JPEG?w=334&h=499"
+  }
+]

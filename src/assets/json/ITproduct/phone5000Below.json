@@ -1,0 +1,62 @@
+[
+  {
+    "index": "1",
+    "name": " 苹果iPhone12 ",
+    "price": "￥4699",
+    "picUrl": "https://img.pconline.com.cn/images/product/1124/1124166/blue_sn.jpg"
+  },
+  {
+    "index": "2",
+    "name": " Xiaomi 13 Pro ",
+    "price": "￥4999",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20221211/4000739_sn.jpg"
+  },
+  {
+    "index": "3",
+    "name": " HUAWEI Mate 50 ",
+    "price": "￥4999",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20220906/2093925_sn.jpg"
+  },
+  {
+    "index": "4",
+    "name": " HUAWEI P60 ",
+    "price": "￥4488",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20230323/7362080_sn.jpg"
+  },
+  {
+    "index": "5",
+    "name": " Xiaomi 12S Pro ",
+    "price": "￥4699",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20220704/1598338_sn.jpg"
+  },
+  {
+    "index": "6",
+    "name": " 华为P50 ",
+    "price": "￥4488",
+    "picUrl": "https://img.pconline.com.cn/images/product/1262/1262467/fb_sn.jpg"
+  },
+  {
+    "index": "7",
+    "name": " OPPO Find X6 ",
+    "price": "￥4499",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20230321/7273549_sn.jpg"
+  },
+  {
+    "index": "8",
+    "name": " 三星Galaxy S22 ",
+    "price": "￥4999",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20220210/546306_sn.jpg"
+  },
+  {
+    "index": "9",
+    "name": " 苹果iPhone13 mini ",
+    "price": "￥4699",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20220309/588102_sn.png"
+  },
+  {
+    "index": "10",
+    "name": " vivo X90 Pro ",
+    "price": "￥4999",
+    "picUrl": "https://img4.pconline.com.cn/pconline/images/product/20221122/3555464_sn.jpg"
+  }
+]

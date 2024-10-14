@@ -1,0 +1,217 @@
+[
+  {
+    "index": "1",
+    "wealth": "￥1300",
+    "rank": "280",
+    "name": "杨惠妍",
+    "age": "26",
+    "enterName": "碧桂园",
+    "industry": "房地产",
+    "picUrl": "https://res.hurun.cn/photo/000006_Yang_Huiyan.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=1692914221,3664179404&fm=253&fmt=auto&app=138&f=JPEG?w=370&h=500"
+  },
+  {
+    "index": "2",
+    "wealth": "￥770",
+    "rank": "↓1",
+    "name": "张茵家族",
+    "age": "50",
+    "enterName": "玖龙纸业",
+    "industry": "包装纸",
+    "picUrl": "https://res.hurun.cn/photo/000084_Zhang_Yin.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=611147995,1415313&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=750"
+  },
+  {
+    "index": "3",
+    "wealth": "￥550",
+    "rank": "1",
+    "name": "许荣茂",
+    "age": "57",
+    "enterName": "世茂集团",
+    "industry": "房地产",
+    "picUrl": "https://p1.itc.cn/q_70/images03/20201008/d485a9616097416aaadf1406a9b72fcb.gif",
+    "picUrl2": "https://img0.baidu.com/it/u=1705325922,506442662&fm=253&fmt=auto&app=138&f=JPEG?w=330&h=390"
+  },
+  {
+    "index": "4",
+    "wealth": "￥450",
+    "rank": "↓2",
+    "name": "黄光裕",
+    "age": "38",
+    "enterName": "鹏润投资",
+    "industry": "家电零售房地产",
+    "picUrl": "https://img1.baidu.com/it/u=2455903661,2300770717&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=417",
+    "picUrl2": "https://img0.baidu.com/it/u=2088008617,4251867905&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=388"
+  },
+  {
+    "index": "5",
+    "wealth": "￥420",
+    "rank": "4",
+    "name": "张力",
+    "age": "54",
+    "enterName": "富力地产",
+    "industry": "房地产",
+    "picUrl": "https://res.hurun.cn/photo/000139_Zhang_Li.jpg"
+  },
+  {
+    "index": "6",
+    "wealth": "￥400",
+    "rank": "新上榜",
+    "name": "彭小峰",
+    "age": "32",
+    "enterName": "江西赛维",
+    "industry": "太阳能",
+    "picUrl": "https://img1.baidu.com/it/u=581633393,2248480304&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=334",
+    "picUrl2": "https://img1.baidu.com/it/u=581633393,2248480304&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=334"
+  },
+  {
+    "index": "7",
+    "wealth": "￥400",
+    "rank": "排名不变",
+    "name": "荣智健",
+    "age": "65",
+    "enterName": "中信泰富",
+    "industry": "综合",
+    "picUrl": "https://img1.baidu.com/it/u=1739350828,251139699&fm=253&fmt=auto&app=138&f=JPEG?w=438&h=258",
+    "picUrl2": "https://img1.baidu.com/it/u=1739350828,251139699&fm=253&fmt=auto&app=138&f=JPEG?w=438&h=258"
+  },
+  {
+    "index": "8",
+    "wealth": "￥400",
+    "rank": "4",
+    "name": "许家印",
+    "age": "49",
+    "enterName": "恒大集团",
+    "industry": "房地产",
+    "picUrl": "https://5b0988e595225.cdn.sohucs.com/images/20181202/50bda419e07d4c5788292d389264742f.gif"
+  },
+  {
+    "index": "9",
+    "wealth": "￥380",
+    "rank": "11",
+    "name": "张近东",
+    "age": "44",
+    "enterName": "苏宁电器",
+    "industry": "家电零售房地产",
+    "picUrl": "https://res.hurun.cn/photo/000019_Zhang_Jindong.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=348645076,1812074397&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=260"
+  },
+  {
+    "index": "10",
+    "wealth": "￥360",
+    "rank": "1",
+    "name": "郭广昌",
+    "age": "40",
+    "enterName": "复星集团",
+    "industry": "综合",
+    "picUrl": "https://res.hurun.cn/photo/000045_Guo_Guangchang.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=3979608557,3980783180&fm=253&fmt=auto&app=138&f=JPEG?w=580&h=330"
+  },
+  {
+    "index": "11",
+    "wealth": "￥330",
+    "rank": "40",
+    "name": "卢志强",
+    "age": "55",
+    "enterName": "泛海集团",
+    "industry": "房地产金融",
+    "picUrl": "https://res.hurun.cn/photo/000031_Lu_Zhiqiang.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=4170838702,4040780255&fm=253&fmt=auto&app=138&f=JPEG?w=769&h=500"
+  },
+  {
+    "index": "12",
+    "wealth": "￥310",
+    "rank": "↓5",
+    "name": "陈卓林家族",
+    "age": "45",
+    "enterName": "雅居乐",
+    "industry": "房地产",
+    "picUrl": "https://img0.baidu.com/it/u=3059530199,573756346&fm=253&fmt=auto&app=138&f=JPEG?w=450&h=380"
+  },
+  {
+    "index": "13",
+    "wealth": "￥300",
+    "rank": "↓10",
+    "name": "朱孟依",
+    "age": "48",
+    "enterName": "合生创展",
+    "industry": "房地产",
+    "picUrl": "https://img0.baidu.com/it/u=3707458347,3269351880&fm=253&fmt=auto&app=138&f=JPEG?w=413&h=493",
+    "picUrl2": "https://img0.baidu.com/it/u=1228101895,3871901262&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=333"
+  },
+  {
+    "index": "14",
+    "wealth": "￥290",
+    "rank": "4",
+    "name": "刘永好家族",
+    "age": "56",
+    "enterName": "新希望",
+    "industry": "金融饲料房地产和乳制品",
+    "picUrl": "https://res.hurun.cn/photo/000026_Liu_Yonghao.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1584006822,1975011203&fm=253&fmt=auto&app=138&f=JPEG?w=746&h=500"
+  },
+  {
+    "index": "15",
+    "wealth": "￥280",
+    "rank": "15",
+    "name": "史玉柱",
+    "age": "45",
+    "enterName": "巨人集团",
+    "industry": "在线游戏金融",
+    "picUrl": "https://res.hurun.cn/photo/000074_Shi_Yuzhu.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=2101663025,2576949135&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=400"
+  },
+  {
+    "index": "16",
+    "wealth": "￥270",
+    "rank": "235",
+    "name": "潘石屹张欣夫妇",
+    "age": "4442",
+    "enterName": "SOHO中国",
+    "industry": "房地产",
+    "picUrl": "https://img2.baidu.com/it/u=4277012333,2622393528&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=350"
+  },
+  {
+    "index": "17",
+    "wealth": "￥270",
+    "rank": "↓8",
+    "name": "钟声坚",
+    "age": "49",
+    "enterName": "仁恒房地产",
+    "industry": "房地产",
+    "picUrl": "https://img1.baidu.com/it/u=1658145456,1161737439&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=333"
+  },
+  {
+    "index": "18",
+    "wealth": "￥260",
+    "rank": "↓4",
+    "name": "宗庆后家族",
+    "age": "62",
+    "enterName": "娃哈哈",
+    "industry": "饮料童装",
+    "picUrl": "https://res.hurun.cn/photo/000025_Zong_Qinghou.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1552937193,3629105256&fm=253&fmt=auto&app=138&f=JPEG?w=450&h=580"
+  },
+  {
+    "index": "19",
+    "wealth": "￥250",
+    "rank": "37",
+    "name": "黄伟",
+    "age": "39",
+    "enterName": "新湖集团",
+    "industry": "房地产金融",
+    "picUrl": "https://img0.baidu.com/it/u=3540445969,2196043697&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=334",
+    "picUrl2": "https://img2.baidu.com/it/u=3651087354,1712860503&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=333"
+  },
+  {
+    "index": "20",
+    "wealth": "￥250",
+    "rank": "1",
+    "name": "童锦泉",
+    "age": "52",
+    "enterName": "长峰房地产",
+    "industry": "房地产",
+    "picUrl": "https://res.hurun.cn/photo/000080_Tong_Jinquan.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=1177171820,2386414943&fm=253&fmt=auto&app=138&f=JPEG?w=390&h=240"
+  }
+]

@@ -1,0 +1,6996 @@
+{
+  "ResultCode": 0,
+  "ResultNum": 0,
+  "QueryID": "",
+  "Result": {
+    "nav": [
+      {
+        "title": "行业板块",
+        "selected": 1,
+        "tabs": [
+          {
+            "market": "ab",
+            "marketName": "A股",
+            "type": "HY",
+            "selected": 1
+          },
+          {
+            "market": "hk",
+            "marketName": "港股",
+            "type": "HSHY",
+            "selected": 0
+          },
+          {
+            "market": "us",
+            "marketName": "美股",
+            "type": "HY",
+            "selected": 0
+          }
+        ]
+      },
+      {
+        "title": "概念板块",
+        "selected": 0,
+        "tabs": [
+          {
+            "market": "ab",
+            "marketName": "A股",
+            "type": "GN",
+            "selected": 0
+          }
+        ]
+      },
+      {
+        "title": "地域板块",
+        "selected": 0,
+        "tabs": [
+          {
+            "market": "ab",
+            "marketName": "A股",
+            "type": "DY",
+            "selected": 0
+          }
+        ]
+      }
+    ],
+    "marketInfo": {
+      "market": "ab",
+      "marketName": "A股",
+      "code": "XBHS",
+      "name": "A股板块",
+      "blockTypes": [
+        {
+          "type": "HY",
+          "text": "行业板块",
+          "selected": 1
+        },
+        {
+          "type": "GN",
+          "text": "概念板块",
+          "selected": 0
+        },
+        {
+          "type": "DY",
+          "text": "地域板块",
+          "selected": 0
+        }
+      ]
+    },
+    "blocks": [
+      {
+        "market": "ab",
+        "code": "280600",
+        "name": "商用车",
+        "price": 2346.98,
+        "last_price": 2218.75,
+        "ratio": {
+          "value": "+5.78%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "600418",
+            "name": "江淮汽车",
+            "market": "ab",
+            "price": {
+              "value": "19.84",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000550",
+            "name": "江铃汽车",
+            "market": "ab",
+            "price": {
+              "value": "18.41",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000800",
+            "name": "一汽解放",
+            "market": "ab",
+            "price": {
+              "value": "10.14",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000868",
+            "name": "安凯客车",
+            "market": "ab",
+            "price": {
+              "value": "5.98",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.93%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600375",
+            "name": "汉马科技",
+            "market": "ab",
+            "price": {
+              "value": "6.31",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.82%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000957",
+            "name": "中通客车",
+            "market": "ab",
+            "price": {
+              "value": "11.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.96%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600066",
+            "name": "宇通客车",
+            "market": "ab",
+            "price": {
+              "value": "14.0",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.87%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600006",
+            "name": "东风汽车",
+            "market": "ab",
+            "price": {
+              "value": "6.44",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.71%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000951",
+            "name": "中国重汽",
+            "market": "ab",
+            "price": {
+              "value": "15.45",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.59%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600213",
+            "name": "亚星客车",
+            "market": "ab",
+            "price": {
+              "value": "9.67",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.22%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "600686",
+            "name": "金龙汽车",
+            "market": "ab",
+            "price": {
+              "value": "8.05",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.59%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301039",
+            "name": "中集车辆",
+            "market": "ab",
+            "price": {
+              "value": "10.71",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.28%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600303",
+            "name": "ST曙光",
+            "market": "ab",
+            "price": {
+              "value": "4.62",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.09%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600166",
+            "name": "福田汽车",
+            "market": "ab",
+            "price": {
+              "value": "3.27",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.55%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600213",
+            "name": "亚星客车",
+            "market": "ab",
+            "price": {
+              "value": "9.67",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.22%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000951",
+            "name": "中国重汽",
+            "market": "ab",
+            "price": {
+              "value": "15.45",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.59%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600006",
+            "name": "东风汽车",
+            "market": "ab",
+            "price": {
+              "value": "6.44",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.71%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600066",
+            "name": "宇通客车",
+            "market": "ab",
+            "price": {
+              "value": "14.0",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.87%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000957",
+            "name": "中通客车",
+            "market": "ab",
+            "price": {
+              "value": "11.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.96%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600375",
+            "name": "汉马科技",
+            "market": "ab",
+            "price": {
+              "value": "6.31",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.82%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 13,
+        "fallCount": 1,
+        "memberCount": 14,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "340800",
+        "name": "休闲食品",
+        "price": 2603.97,
+        "last_price": 2477.29,
+        "ratio": {
+          "value": "+5.11%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "002557",
+            "name": "洽洽食品",
+            "market": "ab",
+            "price": {
+              "value": "36.26",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.01%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603057",
+            "name": "上海紫燕食品",
+            "market": "ab",
+            "price": {
+              "value": "23.1",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603886",
+            "name": "元祖股份",
+            "market": "ab",
+            "price": {
+              "value": "18.95",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.46%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605339",
+            "name": "南侨食品",
+            "market": "ab",
+            "price": {
+              "value": "19.2",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.25%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603517",
+            "name": "绝味食品",
+            "market": "ab",
+            "price": {
+              "value": "33.79",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.22%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002991",
+            "name": "甘源食品",
+            "market": "ab",
+            "price": {
+              "value": "78.05",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.12%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002847",
+            "name": "盐津铺子",
+            "market": "ab",
+            "price": {
+              "value": "79.38",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.10%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603043",
+            "name": "广州酒家",
+            "market": "ab",
+            "price": {
+              "value": "21.96",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.57%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "003000",
+            "name": "劲仔食品",
+            "market": "ab",
+            "price": {
+              "value": "12.0",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.35%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300973",
+            "name": "立高食品",
+            "market": "ab",
+            "price": {
+              "value": "56.18",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.08%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "001219",
+            "name": "青岛食品",
+            "market": "ab",
+            "price": {
+              "value": "18.73",
+              "status": "same"
+            },
+            "ratio": {
+              "value": "0.00%",
+              "status": "same"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603777",
+            "name": "来伊份",
+            "market": "ab",
+            "price": {
+              "value": "13.09",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.39%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002820",
+            "name": "桂发祥",
+            "market": "ab",
+            "price": {
+              "value": "10.28",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.88%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000716",
+            "name": "黑芝麻",
+            "market": "ab",
+            "price": {
+              "value": "6.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.96%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300783",
+            "name": "三只松鼠",
+            "market": "ab",
+            "price": {
+              "value": "18.54",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.49%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002582",
+            "name": "好想你",
+            "market": "ab",
+            "price": {
+              "value": "7.67",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.68%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002695",
+            "name": "煌上煌",
+            "market": "ab",
+            "price": {
+              "value": "11.01",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.38%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603697",
+            "name": "有友食品",
+            "market": "ab",
+            "price": {
+              "value": "8.42",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.57%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603719",
+            "name": "良品铺子",
+            "market": "ab",
+            "price": {
+              "value": "20.91",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.62%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002956",
+            "name": "西麦食品",
+            "market": "ab",
+            "price": {
+              "value": "13.72",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.78%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 20,
+        "fallCount": 0,
+        "memberCount": 21,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "370600",
+        "name": "医疗服务",
+        "price": 5946.14,
+        "last_price": 5657.75,
+        "ratio": {
+          "value": "+5.10%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "301201",
+            "name": "诚达药业",
+            "market": "ab",
+            "price": {
+              "value": "27.38",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+19.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688238",
+            "name": "和元生物",
+            "market": "ab",
+            "price": {
+              "value": "9.16",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+12.39%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300363",
+            "name": "博腾股份",
+            "market": "ab",
+            "price": {
+              "value": "28.65",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+11.09%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603127",
+            "name": "昭衍新药",
+            "market": "ab",
+            "price": {
+              "value": "24.75",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688076",
+            "name": "诺泰生物",
+            "market": "ab",
+            "price": {
+              "value": "51.0",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.40%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301333",
+            "name": "诺思格",
+            "market": "ab",
+            "price": {
+              "value": "67.77",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.25%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688315",
+            "name": "诺禾致源科技",
+            "market": "ab",
+            "price": {
+              "value": "22.15",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.85%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300143",
+            "name": "盈康生命",
+            "market": "ab",
+            "price": {
+              "value": "9.96",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688265",
+            "name": "南方模式生物",
+            "market": "ab",
+            "price": {
+              "value": "40.41",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.22%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603882",
+            "name": "金域医学",
+            "market": "ab",
+            "price": {
+              "value": "58.14",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.13%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "600568",
+            "name": "ST中珠",
+            "market": "ab",
+            "price": {
+              "value": "1.72",
+              "status": "same"
+            },
+            "ratio": {
+              "value": "0.00%",
+              "status": "same"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002219",
+            "name": "新里程",
+            "market": "ab",
+            "price": {
+              "value": "3.17",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.60%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "835670",
+            "name": "数字人",
+            "market": "ab",
+            "price": {
+              "value": "9.74",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.67%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300244",
+            "name": "迪安诊断",
+            "market": "ab",
+            "price": {
+              "value": "22.42",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.91%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002044",
+            "name": "美年健康",
+            "market": "ab",
+            "price": {
+              "value": "6.21",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.14%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002172",
+            "name": "澳洋健康",
+            "market": "ab",
+            "price": {
+              "value": "3.72",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002622",
+            "name": "皓宸医疗",
+            "market": "ab",
+            "price": {
+              "value": "3.27",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.51%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301239",
+            "name": "普瑞眼科",
+            "market": "ab",
+            "price": {
+              "value": "108.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.52%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600721",
+            "name": "百花医药",
+            "market": "ab",
+            "price": {
+              "value": "8.33",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.59%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688073",
+            "name": "毕得医药科技股份",
+            "market": "ab",
+            "price": {
+              "value": "66.69",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.71%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 49,
+        "fallCount": 0,
+        "memberCount": 50,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "330300",
+        "name": "小家电",
+        "price": 457.72,
+        "last_price": 436.45,
+        "ratio": {
+          "value": "+4.87%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "603219",
+            "name": "富佳股份",
+            "market": "ab",
+            "price": {
+              "value": "16.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.01%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002032",
+            "name": "苏 泊 尔",
+            "market": "ab",
+            "price": {
+              "value": "51.0",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.28%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688793",
+            "name": "倍轻松科技",
+            "market": "ab",
+            "price": {
+              "value": "35.87",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.43%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301187",
+            "name": "欧圣电气",
+            "market": "ab",
+            "price": {
+              "value": "19.11",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.23%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "870726",
+            "name": "鸿智科技",
+            "market": "ab",
+            "price": {
+              "value": "9.68",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.99%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603868",
+            "name": "飞科电器",
+            "market": "ab",
+            "price": {
+              "value": "57.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.89%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002959",
+            "name": "小熊电器",
+            "market": "ab",
+            "price": {
+              "value": "56.66",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.77%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688169",
+            "name": "石头科技",
+            "market": "ab",
+            "price": {
+              "value": "291.77",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.85%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603215",
+            "name": "比依股份",
+            "market": "ab",
+            "price": {
+              "value": "16.06",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.75%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603486",
+            "name": "科沃斯",
+            "market": "ab",
+            "price": {
+              "value": "44.4",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.74%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "001259",
+            "name": "利仁科技",
+            "market": "ab",
+            "price": {
+              "value": "28.68",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.31%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "870199",
+            "name": "倍益康",
+            "market": "ab",
+            "price": {
+              "value": "10.01",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002005",
+            "name": "ST德豪",
+            "market": "ab",
+            "price": {
+              "value": "1.4",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.72%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300272",
+            "name": "开能健康",
+            "market": "ab",
+            "price": {
+              "value": "5.83",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.87%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "003023",
+            "name": "彩虹集团",
+            "market": "ab",
+            "price": {
+              "value": "19.71",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.08%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002403",
+            "name": "爱仕达",
+            "market": "ab",
+            "price": {
+              "value": "8.22",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.73%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300824",
+            "name": "北鼎股份",
+            "market": "ab",
+            "price": {
+              "value": "9.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.06%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002242",
+            "name": "九阳股份",
+            "market": "ab",
+            "price": {
+              "value": "13.36",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.14%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301332",
+            "name": "德尔玛",
+            "market": "ab",
+            "price": {
+              "value": "12.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.41%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605555",
+            "name": "德昌股份",
+            "market": "ab",
+            "price": {
+              "value": "21.55",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.06%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 22,
+        "fallCount": 0,
+        "memberCount": 22,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "350300",
+        "name": "饰品",
+        "price": 1717.23,
+        "last_price": 1637.52,
+        "ratio": {
+          "value": "+4.87%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "002345",
+            "name": "潮宏基",
+            "market": "ab",
+            "price": {
+              "value": "6.57",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.05%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600612",
+            "name": "老凤祥",
+            "market": "ab",
+            "price": {
+              "value": "62.3",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.99%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605599",
+            "name": "菜百股份",
+            "market": "ab",
+            "price": {
+              "value": "14.3",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.80%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002740",
+            "name": "*ST爱迪",
+            "market": "ab",
+            "price": {
+              "value": "1.83",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.17%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301177",
+            "name": "迪阿股份",
+            "market": "ab",
+            "price": {
+              "value": "31.69",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.80%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002731",
+            "name": "萃华珠宝",
+            "market": "ab",
+            "price": {
+              "value": "11.01",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300945",
+            "name": "曼卡龙",
+            "market": "ab",
+            "price": {
+              "value": "15.21",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.33%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000017",
+            "name": "深中华A",
+            "market": "ab",
+            "price": {
+              "value": "4.29",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.13%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002867",
+            "name": "周大生",
+            "market": "ab",
+            "price": {
+              "value": "16.55",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.86%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002574",
+            "name": "明牌珠宝",
+            "market": "ab",
+            "price": {
+              "value": "6.06",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "600439",
+            "name": "瑞贝卡",
+            "market": "ab",
+            "price": {
+              "value": "2.8",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.36%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002721",
+            "name": "*ST金一",
+            "market": "ab",
+            "price": {
+              "value": "2.99",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.01%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600735",
+            "name": "新华锦",
+            "market": "ab",
+            "price": {
+              "value": "6.28",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.29%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600916",
+            "name": "中国黄金",
+            "market": "ab",
+            "price": {
+              "value": "10.75",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.70%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603900",
+            "name": "莱绅通灵",
+            "market": "ab",
+            "price": {
+              "value": "6.31",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.94%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000026",
+            "name": "飞亚达",
+            "market": "ab",
+            "price": {
+              "value": "10.48",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.95%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002574",
+            "name": "明牌珠宝",
+            "market": "ab",
+            "price": {
+              "value": "6.06",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002867",
+            "name": "周大生",
+            "market": "ab",
+            "price": {
+              "value": "16.55",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.86%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000017",
+            "name": "深中华A",
+            "market": "ab",
+            "price": {
+              "value": "4.29",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.13%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300945",
+            "name": "曼卡龙",
+            "market": "ab",
+            "price": {
+              "value": "15.21",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.33%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 15,
+        "fallCount": 1,
+        "memberCount": 16,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "450700",
+        "name": "旅游零售Ⅱ",
+        "price": 1600.1,
+        "last_price": 1527.17,
+        "ratio": {
+          "value": "+4.78%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "601888",
+            "name": "中国中免",
+            "market": "ab",
+            "price": {
+              "value": "93.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.78%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "601888",
+            "name": "中国中免",
+            "market": "ab",
+            "price": {
+              "value": "93.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.78%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 1,
+        "fallCount": 0,
+        "memberCount": 1,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "340900",
+        "name": "调味发酵品Ⅱ",
+        "price": 1605.84,
+        "last_price": 1538.14,
+        "ratio": {
+          "value": "+4.40%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "603317",
+            "name": "天味食品",
+            "market": "ab",
+            "price": {
+              "value": "14.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.05%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603288",
+            "name": "海天味业",
+            "market": "ab",
+            "price": {
+              "value": "37.33",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.87%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603170",
+            "name": "宝立食品科技",
+            "market": "ab",
+            "price": {
+              "value": "19.67",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.70%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603027",
+            "name": "千禾味业",
+            "market": "ab",
+            "price": {
+              "value": "17.16",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.83%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002507",
+            "name": "涪陵榨菜",
+            "market": "ab",
+            "price": {
+              "value": "15.49",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.17%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300908",
+            "name": "仲景食品",
+            "market": "ab",
+            "price": {
+              "value": "43.0",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.32%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603755",
+            "name": "日辰股份",
+            "market": "ab",
+            "price": {
+              "value": "29.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.23%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603696",
+            "name": "安记食品",
+            "market": "ab",
+            "price": {
+              "value": "9.48",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.04%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002650",
+            "name": "加加食品",
+            "market": "ab",
+            "price": {
+              "value": "4.04",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.54%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600305",
+            "name": "恒顺醋业",
+            "market": "ab",
+            "price": {
+              "value": "9.99",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.36%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "600186",
+            "name": "莲花健康",
+            "market": "ab",
+            "price": {
+              "value": "6.63",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-5.42%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002495",
+            "name": "佳隆股份",
+            "market": "ab",
+            "price": {
+              "value": "2.57",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.91%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600872",
+            "name": "中炬高新",
+            "market": "ab",
+            "price": {
+              "value": "33.04",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.57%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600298",
+            "name": "安琪酵母",
+            "market": "ab",
+            "price": {
+              "value": "34.96",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.92%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "831726",
+            "name": "朱老六",
+            "market": "ab",
+            "price": {
+              "value": "7.29",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.96%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600305",
+            "name": "恒顺醋业",
+            "market": "ab",
+            "price": {
+              "value": "9.99",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.36%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002650",
+            "name": "加加食品",
+            "market": "ab",
+            "price": {
+              "value": "4.04",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.54%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603696",
+            "name": "安记食品",
+            "market": "ab",
+            "price": {
+              "value": "9.48",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.04%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603755",
+            "name": "日辰股份",
+            "market": "ab",
+            "price": {
+              "value": "29.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.23%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300908",
+            "name": "仲景食品",
+            "market": "ab",
+            "price": {
+              "value": "43.0",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.32%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 13,
+        "fallCount": 2,
+        "memberCount": 15,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "370100",
+        "name": "化学制药",
+        "price": 2655.02,
+        "last_price": 2544.25,
+        "ratio": {
+          "value": "+4.35%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "300630",
+            "name": "普利制药",
+            "market": "ab",
+            "price": {
+              "value": "24.36",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+20.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300765",
+            "name": "新诺威",
+            "market": "ab",
+            "price": {
+              "value": "27.53",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+16.85%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002793",
+            "name": "罗欣药业",
+            "market": "ab",
+            "price": {
+              "value": "5.81",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.04%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688062",
+            "name": "迈威生物",
+            "market": "ab",
+            "price": {
+              "value": "26.23",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.03%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002262",
+            "name": "恩华药业",
+            "market": "ab",
+            "price": {
+              "value": "26.46",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600062",
+            "name": "华润双鹤",
+            "market": "ab",
+            "price": {
+              "value": "16.81",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.01%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "market": "ab",
+            "price": {
+              "value": "27.72",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600200",
+            "name": "江苏吴中",
+            "market": "ab",
+            "price": {
+              "value": "8.93",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002773",
+            "name": "康弘药业",
+            "market": "ab",
+            "price": {
+              "value": "16.65",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.97%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002437",
+            "name": "誉衡药业",
+            "market": "ab",
+            "price": {
+              "value": "2.43",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.95%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "300255",
+            "name": "常山药业",
+            "market": "ab",
+            "price": {
+              "value": "13.05",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-5.84%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000766",
+            "name": "通化金马",
+            "market": "ab",
+            "price": {
+              "value": "12.62",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-3.30%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603811",
+            "name": "诚意药业",
+            "market": "ab",
+            "price": {
+              "value": "10.43",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-2.43%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002365",
+            "name": "永安药业",
+            "market": "ab",
+            "price": {
+              "value": "9.66",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-2.13%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603168",
+            "name": "莎普爱思",
+            "market": "ab",
+            "price": {
+              "value": "10.85",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.36%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002102",
+            "name": "冠福股份",
+            "market": "ab",
+            "price": {
+              "value": "2.87",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.69%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300016",
+            "name": "北陆药业",
+            "market": "ab",
+            "price": {
+              "value": "6.94",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.57%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300086",
+            "name": "康芝药业",
+            "market": "ab",
+            "price": {
+              "value": "6.04",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.33%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688513",
+            "name": "苑东生物",
+            "market": "ab",
+            "price": {
+              "value": "54.1",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.28%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002872",
+            "name": "ST天圣",
+            "market": "ab",
+            "price": {
+              "value": "4.98",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.20%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 148,
+        "fallCount": 9,
+        "memberCount": 157,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "370300",
+        "name": "生物制品",
+        "price": 2680.81,
+        "last_price": 2570.7,
+        "ratio": {
+          "value": "+4.28%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "688687",
+            "name": "北京凯因科技",
+            "market": "ab",
+            "price": {
+              "value": "29.98",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+20.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300122",
+            "name": "智飞生物",
+            "market": "ab",
+            "price": {
+              "value": "61.5",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.79%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688180",
+            "name": "君实生物",
+            "market": "ab",
+            "price": {
+              "value": "43.35",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.73%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688293",
+            "name": "奥浦迈生物",
+            "market": "ab",
+            "price": {
+              "value": "51.08",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.27%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688319",
+            "name": "欧林生物",
+            "market": "ab",
+            "price": {
+              "value": "19.72",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.76%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000518",
+            "name": "四环生物",
+            "market": "ab",
+            "price": {
+              "value": "2.94",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.91%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300683",
+            "name": "海特生物",
+            "market": "ab",
+            "price": {
+              "value": "49.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.90%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688670",
+            "name": "金迪克生物",
+            "market": "ab",
+            "price": {
+              "value": "31.4",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.30%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688136",
+            "name": "科兴生物制药",
+            "market": "ab",
+            "price": {
+              "value": "19.1",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.23%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603392",
+            "name": "万泰生物",
+            "market": "ab",
+            "price": {
+              "value": "43.4",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.03%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "300485",
+            "name": "赛升药业",
+            "market": "ab",
+            "price": {
+              "value": "10.61",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-4.33%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688278",
+            "name": "特宝生物",
+            "market": "ab",
+            "price": {
+              "value": "43.16",
+              "status": "same"
+            },
+            "ratio": {
+              "value": "0.00%",
+              "status": "same"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000403",
+            "name": "派林生物",
+            "market": "ab",
+            "price": {
+              "value": "22.01",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.06%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603590",
+            "name": "康辰药业",
+            "market": "ab",
+            "price": {
+              "value": "37.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.17%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600739",
+            "name": "辽宁成大",
+            "market": "ab",
+            "price": {
+              "value": "12.2",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.24%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600161",
+            "name": "天坛生物",
+            "market": "ab",
+            "price": {
+              "value": "27.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.24%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688739",
+            "name": "成大生物",
+            "market": "ab",
+            "price": {
+              "value": "32.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.33%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300601",
+            "name": "康泰生物",
+            "market": "ab",
+            "price": {
+              "value": "29.18",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "837344",
+            "name": "三元基因",
+            "market": "ab",
+            "price": {
+              "value": "15.22",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.74%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688276",
+            "name": "长春百克生物科技",
+            "market": "ab",
+            "price": {
+              "value": "65.84",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.76%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 53,
+        "fallCount": 1,
+        "memberCount": 55,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "630700",
+        "name": "电池",
+        "price": 5659.01,
+        "last_price": 5429.01,
+        "ratio": {
+          "value": "+4.24%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "831627",
+            "name": "力王股份",
+            "market": "ab",
+            "price": {
+              "value": "6.87",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+29.87%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301487",
+            "name": "盟固利",
+            "market": "ab",
+            "price": {
+              "value": "49.35",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+11.15%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300769",
+            "name": "德方纳米",
+            "market": "ab",
+            "price": {
+              "value": "79.16",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603026",
+            "name": "胜华新材",
+            "market": "ab",
+            "price": {
+              "value": "49.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002850",
+            "name": "科达利",
+            "market": "ab",
+            "price": {
+              "value": "85.59",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002812",
+            "name": "恩捷股份",
+            "market": "ab",
+            "price": {
+              "value": "63.17",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.99%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002580",
+            "name": "圣阳股份",
+            "market": "ab",
+            "price": {
+              "value": "9.71",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.97%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688116",
+            "name": "天奈科技",
+            "market": "ab",
+            "price": {
+              "value": "26.46",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.16%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300037",
+            "name": "新宙邦",
+            "market": "ab",
+            "price": {
+              "value": "44.06",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.31%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301349",
+            "name": "信德新材",
+            "market": "ab",
+            "price": {
+              "value": "43.55",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.56%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "301210",
+            "name": "金杨股份",
+            "market": "ab",
+            "price": {
+              "value": "48.02",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.80%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300438",
+            "name": "鹏辉能源",
+            "market": "ab",
+            "price": {
+              "value": "31.75",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.06%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300457",
+            "name": "赢合科技",
+            "market": "ab",
+            "price": {
+              "value": "20.01",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.50%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300432",
+            "name": "富临精工",
+            "market": "ab",
+            "price": {
+              "value": "11.29",
+              "status": "same"
+            },
+            "ratio": {
+              "value": "0.00%",
+              "status": "same"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603031",
+            "name": "安孚科技",
+            "market": "ab",
+            "price": {
+              "value": "45.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.33%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688392",
+            "name": "骄成超声波",
+            "market": "ab",
+            "price": {
+              "value": "75.4",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300490",
+            "name": "华自科技",
+            "market": "ab",
+            "price": {
+              "value": "12.08",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.83%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688573",
+            "name": "信宇人",
+            "market": "ab",
+            "price": {
+              "value": "31.8",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300410",
+            "name": "正业科技",
+            "market": "ab",
+            "price": {
+              "value": "7.98",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.40%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301511",
+            "name": "德福科技",
+            "market": "ab",
+            "price": {
+              "value": "27.12",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.42%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 98,
+        "fallCount": 3,
+        "memberCount": 102,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "630500",
+        "name": "光伏设备",
+        "price": 6323.64,
+        "last_price": 6080.03,
+        "ratio": {
+          "value": "+4.01%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "300724",
+            "name": "捷佳伟创",
+            "market": "ab",
+            "price": {
+              "value": "75.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.35%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301278",
+            "name": "快可电子",
+            "market": "ab",
+            "price": {
+              "value": "51.62",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.81%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300751",
+            "name": "迈为股份",
+            "market": "ab",
+            "price": {
+              "value": "124.22",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300827",
+            "name": "上能电气",
+            "market": "ab",
+            "price": {
+              "value": "29.05",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.87%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688556",
+            "name": "高测科技股份",
+            "market": "ab",
+            "price": {
+              "value": "46.95",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.31%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688147",
+            "name": "微导纳米科技",
+            "market": "ab",
+            "price": {
+              "value": "43.19",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.04%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688599",
+            "name": "天合光能",
+            "market": "ab",
+            "price": {
+              "value": "29.94",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.01%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002865",
+            "name": "钧达股份",
+            "market": "ab",
+            "price": {
+              "value": "88.88",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.85%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688516",
+            "name": "奥特维科技",
+            "market": "ab",
+            "price": {
+              "value": "138.58",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.81%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300274",
+            "name": "阳光电源",
+            "market": "ab",
+            "price": {
+              "value": "82.86",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.09%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "300080",
+            "name": "易成新能",
+            "market": "ab",
+            "price": {
+              "value": "4.75",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-2.66%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603398",
+            "name": "沐邦高科",
+            "market": "ab",
+            "price": {
+              "value": "17.71",
+              "status": "same"
+            },
+            "ratio": {
+              "value": "0.00%",
+              "status": "same"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688303",
+            "name": "大全能源",
+            "market": "ab",
+            "price": {
+              "value": "36.03",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.64%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600151",
+            "name": "航天机电",
+            "market": "ab",
+            "price": {
+              "value": "6.8",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.89%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688390",
+            "name": "固德威电源",
+            "market": "ab",
+            "price": {
+              "value": "122.45",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.20%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600438",
+            "name": "通威股份",
+            "market": "ab",
+            "price": {
+              "value": "27.69",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600207",
+            "name": "安彩高科",
+            "market": "ab",
+            "price": {
+              "value": "4.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688348",
+            "name": "昱能科技",
+            "market": "ab",
+            "price": {
+              "value": "121.2",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.72%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "836414",
+            "name": "欧普泰",
+            "market": "ab",
+            "price": {
+              "value": "8.17",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.74%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002610",
+            "name": "爱康科技",
+            "market": "ab",
+            "price": {
+              "value": "2.24",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.82%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 59,
+        "fallCount": 1,
+        "memberCount": 61,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "240600",
+        "name": "能源金属",
+        "price": 2697.44,
+        "last_price": 2594.06,
+        "ratio": {
+          "value": "+3.99%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "000762",
+            "name": "西藏矿业",
+            "market": "ab",
+            "price": {
+              "value": "25.21",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.99%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002466",
+            "name": "天齐锂业",
+            "market": "ab",
+            "price": {
+              "value": "55.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.11%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002192",
+            "name": "融捷股份",
+            "market": "ab",
+            "price": {
+              "value": "57.49",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.07%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002756",
+            "name": "永兴材料",
+            "market": "ab",
+            "price": {
+              "value": "50.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.95%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002460",
+            "name": "赣锋锂业",
+            "market": "ab",
+            "price": {
+              "value": "45.56",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.54%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603799",
+            "name": "华友钴业",
+            "market": "ab",
+            "price": {
+              "value": "36.74",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.05%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301219",
+            "name": "腾远钴业",
+            "market": "ab",
+            "price": {
+              "value": "39.89",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.94%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002240",
+            "name": "盛新锂能",
+            "market": "ab",
+            "price": {
+              "value": "23.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.42%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600711",
+            "name": "盛屯矿业",
+            "market": "ab",
+            "price": {
+              "value": "4.5",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.04%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300618",
+            "name": "寒锐钴业",
+            "market": "ab",
+            "price": {
+              "value": "29.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.03%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "002176",
+            "name": "江特电机",
+            "market": "ab",
+            "price": {
+              "value": "12.64",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.32%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603399",
+            "name": "吉翔股份",
+            "market": "ab",
+            "price": {
+              "value": "11.36",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.53%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002497",
+            "name": "雅化集团",
+            "market": "ab",
+            "price": {
+              "value": "14.34",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.77%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000408",
+            "name": "藏格矿业",
+            "market": "ab",
+            "price": {
+              "value": "22.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.23%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605376",
+            "name": "博迁新材",
+            "market": "ab",
+            "price": {
+              "value": "27.11",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300618",
+            "name": "寒锐钴业",
+            "market": "ab",
+            "price": {
+              "value": "29.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.03%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600711",
+            "name": "盛屯矿业",
+            "market": "ab",
+            "price": {
+              "value": "4.5",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.04%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002240",
+            "name": "盛新锂能",
+            "market": "ab",
+            "price": {
+              "value": "23.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.42%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301219",
+            "name": "腾远钴业",
+            "market": "ab",
+            "price": {
+              "value": "39.89",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.94%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603799",
+            "name": "华友钴业",
+            "market": "ab",
+            "price": {
+              "value": "36.74",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.05%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 15,
+        "fallCount": 0,
+        "memberCount": 15,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "270600",
+        "name": "电子化学品Ⅱ",
+        "price": 4296.85,
+        "last_price": 4140.97,
+        "ratio": {
+          "value": "+3.76%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "301489",
+            "name": "C思泉新材",
+            "market": "ab",
+            "price": {
+              "value": "96.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+18.54%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300429",
+            "name": "强力新材",
+            "market": "ab",
+            "price": {
+              "value": "12.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+13.90%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300576",
+            "name": "容大感光",
+            "market": "ab",
+            "price": {
+              "value": "46.4",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.56%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688548",
+            "name": "广钢气体股份",
+            "market": "ab",
+            "price": {
+              "value": "12.63",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.88%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300537",
+            "name": "广信材料",
+            "market": "ab",
+            "price": {
+              "value": "20.59",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.68%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002584",
+            "name": "西陇科学",
+            "market": "ab",
+            "price": {
+              "value": "5.92",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.53%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603931",
+            "name": "格林达",
+            "market": "ab",
+            "price": {
+              "value": "29.16",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+5.35%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "838402",
+            "name": "硅烷科技",
+            "market": "ab",
+            "price": {
+              "value": "11.44",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.95%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688268",
+            "name": "广东华特气体",
+            "market": "ab",
+            "price": {
+              "value": "65.95",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.70%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688603",
+            "name": "天承科技",
+            "market": "ab",
+            "price": {
+              "value": "73.41",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "688359",
+            "name": "三孚新材料科技",
+            "market": "ab",
+            "price": {
+              "value": "68.03",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.40%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300684",
+            "name": "中石科技",
+            "market": "ab",
+            "price": {
+              "value": "17.44",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.06%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603002",
+            "name": "宏昌电子",
+            "market": "ab",
+            "price": {
+              "value": "5.18",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.19%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688150",
+            "name": "莱特光电股份",
+            "market": "ab",
+            "price": {
+              "value": "17.92",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301319",
+            "name": "唯特偶",
+            "market": "ab",
+            "price": {
+              "value": "54.15",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.73%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688019",
+            "name": "安集科技",
+            "market": "ab",
+            "price": {
+              "value": "184.87",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.58%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688035",
+            "name": "德邦科技股份",
+            "market": "ab",
+            "price": {
+              "value": "49.01",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.32%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300446",
+            "name": "乐凯新材",
+            "market": "ab",
+            "price": {
+              "value": "14.11",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.47%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "831526",
+            "name": "凯华材料",
+            "market": "ab",
+            "price": {
+              "value": "4.45",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.53%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300285",
+            "name": "国瓷材料",
+            "market": "ab",
+            "price": {
+              "value": "23.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.55%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 33,
+        "fallCount": 1,
+        "memberCount": 34,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "220600",
+        "name": "橡胶",
+        "price": 2256.35,
+        "last_price": 2174.79,
+        "ratio": {
+          "value": "+3.75%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "871694",
+            "name": "中裕科技",
+            "market": "ab",
+            "price": {
+              "value": "12.66",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+24.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002068",
+            "name": "黑猫股份",
+            "market": "ab",
+            "price": {
+              "value": "10.32",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "873665",
+            "name": "科强股份",
+            "market": "ab",
+            "price": {
+              "value": "5.58",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.69%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "832225",
+            "name": "利通科技",
+            "market": "ab",
+            "price": {
+              "value": "13.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603650",
+            "name": "彤程新材",
+            "market": "ab",
+            "price": {
+              "value": "34.5",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.61%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603033",
+            "name": "三维股份",
+            "market": "ab",
+            "price": {
+              "value": "17.42",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.56%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300121",
+            "name": "阳谷华泰",
+            "market": "ab",
+            "price": {
+              "value": "9.07",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.66%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300767",
+            "name": "震安科技",
+            "market": "ab",
+            "price": {
+              "value": "19.42",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.63%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605183",
+            "name": "确成股份",
+            "market": "ab",
+            "price": {
+              "value": "14.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.40%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002753",
+            "name": "永东股份",
+            "market": "ab",
+            "price": {
+              "value": "7.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "300731",
+            "name": "科创新源",
+            "market": "ab",
+            "price": {
+              "value": "22.0",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-2.96%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "001207",
+            "name": "联科科技",
+            "market": "ab",
+            "price": {
+              "value": "17.19",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.35%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002442",
+            "name": "龙星化工",
+            "market": "ab",
+            "price": {
+              "value": "5.21",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.39%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300587",
+            "name": "天铁股份",
+            "market": "ab",
+            "price": {
+              "value": "5.77",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.52%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002224",
+            "name": "三 力 士",
+            "market": "ab",
+            "price": {
+              "value": "5.01",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.60%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "831834",
+            "name": "三维股份",
+            "market": "ab",
+            "price": {
+              "value": "3.39",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.19%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301300",
+            "name": "远翔新材",
+            "market": "ab",
+            "price": {
+              "value": "31.1",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.24%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002381",
+            "name": "双箭股份",
+            "market": "ab",
+            "price": {
+              "value": "7.52",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.90%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300320",
+            "name": "海达股份",
+            "market": "ab",
+            "price": {
+              "value": "7.08",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.16%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002753",
+            "name": "永东股份",
+            "market": "ab",
+            "price": {
+              "value": "7.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 18,
+        "fallCount": 1,
+        "memberCount": 19,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "370500",
+        "name": "医疗器械",
+        "price": 2706.44,
+        "last_price": 2611.81,
+        "ratio": {
+          "value": "+3.62%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "688351",
+            "name": "微创电生理股份",
+            "market": "ab",
+            "price": {
+              "value": "22.53",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+11.20%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688389",
+            "name": "深圳普门科技",
+            "market": "ab",
+            "price": {
+              "value": "21.09",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.30%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603309",
+            "name": "维力医疗",
+            "market": "ab",
+            "price": {
+              "value": "14.82",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300653",
+            "name": "正海生物",
+            "market": "ab",
+            "price": {
+              "value": "30.13",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002901",
+            "name": "大博医疗",
+            "market": "ab",
+            "price": {
+              "value": "36.56",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.99%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688576",
+            "name": "西山科技",
+            "market": "ab",
+            "price": {
+              "value": "89.68",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.15%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688161",
+            "name": "威高骨科",
+            "market": "ab",
+            "price": {
+              "value": "41.2",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.74%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300463",
+            "name": "迈克生物",
+            "market": "ab",
+            "price": {
+              "value": "15.55",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.06%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688314",
+            "name": "康拓医疗",
+            "market": "ab",
+            "price": {
+              "value": "30.65",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300238",
+            "name": "冠昊生物",
+            "market": "ab",
+            "price": {
+              "value": "14.09",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.89%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "300246",
+            "name": "宝莱特",
+            "market": "ab",
+            "price": {
+              "value": "10.64",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-6.09%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300358",
+            "name": "楚天科技",
+            "market": "ab",
+            "price": {
+              "value": "10.86",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-4.65%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300049",
+            "name": "福瑞股份",
+            "market": "ab",
+            "price": {
+              "value": "36.12",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-2.06%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "872925",
+            "name": "锦好医疗",
+            "market": "ab",
+            "price": {
+              "value": "9.93",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.68%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688581",
+            "name": "安杰思医学",
+            "market": "ab",
+            "price": {
+              "value": "120.67",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.17%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002086",
+            "name": "*ST东洋",
+            "market": "ab",
+            "price": {
+              "value": "2.68",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.37%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688198",
+            "name": "佰仁医疗科技",
+            "market": "ab",
+            "price": {
+              "value": "131.47",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.05%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688273",
+            "name": "麦澜德医疗",
+            "market": "ab",
+            "price": {
+              "value": "30.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.16%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688271",
+            "name": "联影医疗",
+            "market": "ab",
+            "price": {
+              "value": "116.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.19%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688617",
+            "name": "惠泰医疗",
+            "market": "ab",
+            "price": {
+              "value": "374.27",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 118,
+        "fallCount": 6,
+        "memberCount": 124,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "360500",
+        "name": "文娱用品",
+        "price": 1356.9,
+        "last_price": 1311.08,
+        "ratio": {
+          "value": "+3.49%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "001300",
+            "name": "三柏硕",
+            "market": "ab",
+            "price": {
+              "value": "12.29",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.03%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "001238",
+            "name": "浙江正特",
+            "market": "ab",
+            "price": {
+              "value": "23.13",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.99%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301101",
+            "name": "明月镜片",
+            "market": "ab",
+            "price": {
+              "value": "36.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.37%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603899",
+            "name": "晨光股份",
+            "market": "ab",
+            "price": {
+              "value": "38.09",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.76%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002575",
+            "name": "群兴玩具",
+            "market": "ab",
+            "price": {
+              "value": "5.49",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.81%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "001222",
+            "name": "源飞宠物",
+            "market": "ab",
+            "price": {
+              "value": "14.52",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.61%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300703",
+            "name": "创源股份",
+            "market": "ab",
+            "price": {
+              "value": "10.28",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.59%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002899",
+            "name": "英派斯",
+            "market": "ab",
+            "price": {
+              "value": "15.31",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002862",
+            "name": "实丰文化",
+            "market": "ab",
+            "price": {
+              "value": "16.14",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.35%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002678",
+            "name": "珠江钢琴",
+            "market": "ab",
+            "price": {
+              "value": "5.49",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.23%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "301335",
+            "name": "天元宠物",
+            "market": "ab",
+            "price": {
+              "value": "22.38",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.22%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605080",
+            "name": "浙江自然",
+            "market": "ab",
+            "price": {
+              "value": "23.4",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.43%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002103",
+            "name": "广博股份",
+            "market": "ab",
+            "price": {
+              "value": "5.74",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.53%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300220",
+            "name": "ST金运",
+            "market": "ab",
+            "price": {
+              "value": "7.68",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.05%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002348",
+            "name": "高乐股份",
+            "market": "ab",
+            "price": {
+              "value": "3.27",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.24%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301011",
+            "name": "华立科技",
+            "market": "ab",
+            "price": {
+              "value": "19.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.49%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "001368",
+            "name": "通达创智",
+            "market": "ab",
+            "price": {
+              "value": "24.07",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.56%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002301",
+            "name": "齐心集团",
+            "market": "ab",
+            "price": {
+              "value": "6.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.69%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605299",
+            "name": "舒华体育",
+            "market": "ab",
+            "price": {
+              "value": "10.37",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.77%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300651",
+            "name": "金陵体育",
+            "market": "ab",
+            "price": {
+              "value": "19.98",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.94%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 22,
+        "fallCount": 0,
+        "memberCount": 22,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "370200",
+        "name": "中药Ⅱ",
+        "price": 1457.77,
+        "last_price": 1411.62,
+        "ratio": {
+          "value": "+3.27%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "600129",
+            "name": "太极集团",
+            "market": "ab",
+            "price": {
+              "value": "41.76",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+10.01%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600422",
+            "name": "昆药集团",
+            "market": "ab",
+            "price": {
+              "value": "19.81",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.99%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603998",
+            "name": "方盛制药",
+            "market": "ab",
+            "price": {
+              "value": "10.48",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.97%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002644",
+            "name": "佛慈制药",
+            "market": "ab",
+            "price": {
+              "value": "10.43",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.44%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600351",
+            "name": "亚宝药业",
+            "market": "ab",
+            "price": {
+              "value": "8.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.50%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000650",
+            "name": "仁和药业",
+            "market": "ab",
+            "price": {
+              "value": "6.73",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+7.17%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600572",
+            "name": "康恩贝",
+            "market": "ab",
+            "price": {
+              "value": "5.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.92%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300181",
+            "name": "佐力药业",
+            "market": "ab",
+            "price": {
+              "value": "10.37",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.91%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600557",
+            "name": "康缘药业",
+            "market": "ab",
+            "price": {
+              "value": "16.96",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.73%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600329",
+            "name": "达仁堂",
+            "market": "ab",
+            "price": {
+              "value": "31.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.33%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "002082",
+            "name": "万邦德",
+            "market": "ab",
+            "price": {
+              "value": "6.18",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-5.21%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002287",
+            "name": "奇正藏药",
+            "market": "ab",
+            "price": {
+              "value": "22.91",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-4.86%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002566",
+            "name": "益盛药业",
+            "market": "ab",
+            "price": {
+              "value": "8.39",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.53%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002728",
+            "name": "特一药业",
+            "market": "ab",
+            "price": {
+              "value": "17.14",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.38%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600594",
+            "name": "益佰制药",
+            "market": "ab",
+            "price": {
+              "value": "5.54",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.07%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002433",
+            "name": "*ST太安",
+            "market": "ab",
+            "price": {
+              "value": "2.67",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.74%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600671",
+            "name": "*ST目药",
+            "market": "ab",
+            "price": {
+              "value": "10.41",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.48%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "833266",
+            "name": "生物谷",
+            "market": "ab",
+            "price": {
+              "value": "5.99",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-0.17%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600252",
+            "name": "中恒集团",
+            "market": "ab",
+            "price": {
+              "value": "2.66",
+              "status": "same"
+            },
+            "ratio": {
+              "value": "0.00%",
+              "status": "same"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603896",
+            "name": "寿仙谷",
+            "market": "ab",
+            "price": {
+              "value": "36.75",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.63%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 64,
+        "fallCount": 8,
+        "memberCount": 73,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "110800",
+        "name": "动物保健Ⅱ",
+        "price": 3082.89,
+        "last_price": 2985.6,
+        "ratio": {
+          "value": "+3.26%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "300119",
+            "name": "瑞普生物",
+            "market": "ab",
+            "price": {
+              "value": "16.81",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.47%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600201",
+            "name": "生物股份",
+            "market": "ab",
+            "price": {
+              "value": "8.83",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.88%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002688",
+            "name": "金河生物",
+            "market": "ab",
+            "price": {
+              "value": "4.87",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.84%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "838275",
+            "name": "驱动力",
+            "market": "ab",
+            "price": {
+              "value": "2.75",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.77%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600195",
+            "name": "中牧股份",
+            "market": "ab",
+            "price": {
+              "value": "10.92",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.61%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300871",
+            "name": "回盛生物",
+            "market": "ab",
+            "price": {
+              "value": "14.65",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.46%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603566",
+            "name": "普莱柯",
+            "market": "ab",
+            "price": {
+              "value": "20.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.41%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002868",
+            "name": "绿康生化",
+            "market": "ab",
+            "price": {
+              "value": "25.19",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.28%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603718",
+            "name": "海利生物",
+            "market": "ab",
+            "price": {
+              "value": "11.22",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.13%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688098",
+            "name": "申联生物医药",
+            "market": "ab",
+            "price": {
+              "value": "7.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.68%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "839729",
+            "name": "永顺生物",
+            "market": "ab",
+            "price": {
+              "value": "6.97",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.01%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688526",
+            "name": "武汉科前生物",
+            "market": "ab",
+            "price": {
+              "value": "18.58",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.59%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "871970",
+            "name": "大禹生物",
+            "market": "ab",
+            "price": {
+              "value": "3.17",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.60%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "688098",
+            "name": "申联生物医药",
+            "market": "ab",
+            "price": {
+              "value": "7.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.68%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603718",
+            "name": "海利生物",
+            "market": "ab",
+            "price": {
+              "value": "11.22",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.13%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002868",
+            "name": "绿康生化",
+            "market": "ab",
+            "price": {
+              "value": "25.19",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.28%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603566",
+            "name": "普莱柯",
+            "market": "ab",
+            "price": {
+              "value": "20.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.41%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300871",
+            "name": "回盛生物",
+            "market": "ab",
+            "price": {
+              "value": "14.65",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.46%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600195",
+            "name": "中牧股份",
+            "market": "ab",
+            "price": {
+              "value": "10.92",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.61%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "838275",
+            "name": "驱动力",
+            "market": "ab",
+            "price": {
+              "value": "2.75",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.77%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 13,
+        "fallCount": 0,
+        "memberCount": 13,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "460900",
+        "name": "酒店餐饮",
+        "price": 1175.74,
+        "last_price": 1138.84,
+        "ratio": {
+          "value": "+3.24%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "600258",
+            "name": "首旅酒店",
+            "market": "ab",
+            "price": {
+              "value": "16.46",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.51%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600754",
+            "name": "锦江酒店",
+            "market": "ab",
+            "price": {
+              "value": "32.89",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605108",
+            "name": "同庆楼",
+            "market": "ab",
+            "price": {
+              "value": "29.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.49%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000721",
+            "name": "西安饮食",
+            "market": "ab",
+            "price": {
+              "value": "10.63",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "601007",
+            "name": "金陵饭店",
+            "market": "ab",
+            "price": {
+              "value": "7.88",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.94%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002186",
+            "name": "全 聚 德",
+            "market": "ab",
+            "price": {
+              "value": "11.39",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.79%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002306",
+            "name": "中科云网",
+            "market": "ab",
+            "price": {
+              "value": "3.71",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.09%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000428",
+            "name": "华天酒店",
+            "market": "ab",
+            "price": {
+              "value": "4.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.75%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000610",
+            "name": "西安旅游",
+            "market": "ab",
+            "price": {
+              "value": "13.77",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.73%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "301073",
+            "name": "君亭酒店",
+            "market": "ab",
+            "price": {
+              "value": "25.12",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-2.75%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "301073",
+            "name": "君亭酒店",
+            "market": "ab",
+            "price": {
+              "value": "25.12",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-2.75%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000610",
+            "name": "西安旅游",
+            "market": "ab",
+            "price": {
+              "value": "13.77",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.73%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000428",
+            "name": "华天酒店",
+            "market": "ab",
+            "price": {
+              "value": "4.02",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.75%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002306",
+            "name": "中科云网",
+            "market": "ab",
+            "price": {
+              "value": "3.71",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.09%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002186",
+            "name": "全 聚 德",
+            "market": "ab",
+            "price": {
+              "value": "11.39",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.79%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "601007",
+            "name": "金陵饭店",
+            "market": "ab",
+            "price": {
+              "value": "7.88",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.94%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000721",
+            "name": "西安饮食",
+            "market": "ab",
+            "price": {
+              "value": "10.63",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.02%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605108",
+            "name": "同庆楼",
+            "market": "ab",
+            "price": {
+              "value": "29.6",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.49%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600754",
+            "name": "锦江酒店",
+            "market": "ab",
+            "price": {
+              "value": "32.89",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600258",
+            "name": "首旅酒店",
+            "market": "ab",
+            "price": {
+              "value": "16.46",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.51%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 9,
+        "fallCount": 1,
+        "memberCount": 10,
+        "minuteData": {
+          "priceinfo": null
+        }
+      },
+      {
+        "market": "ab",
+        "code": "340400",
+        "name": "食品加工",
+        "price": 3157.46,
+        "last_price": 3059.52,
+        "ratio": {
+          "value": "+3.20%",
+          "status": "up"
+        },
+        "rise_first": [
+          {
+            "code": "605338",
+            "name": "巴比食品",
+            "market": "ab",
+            "price": {
+              "value": "23.03",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+9.98%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603345",
+            "name": "安井食品",
+            "market": "ab",
+            "price": {
+              "value": "126.43",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+8.62%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002626",
+            "name": "金达威",
+            "market": "ab",
+            "price": {
+              "value": "18.11",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.72%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "001215",
+            "name": "千味央厨",
+            "market": "ab",
+            "price": {
+              "value": "59.5",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+6.44%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "836826",
+            "name": "盖世食品",
+            "market": "ab",
+            "price": {
+              "value": "5.23",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.60%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605089",
+            "name": "味知香",
+            "market": "ab",
+            "price": {
+              "value": "36.9",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.30%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "833429",
+            "name": "康比特",
+            "market": "ab",
+            "price": {
+              "value": "7.31",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.28%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "300791",
+            "name": "仙乐健康",
+            "market": "ab",
+            "price": {
+              "value": "31.94",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.14%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "832786",
+            "name": "骑士乳业",
+            "market": "ab",
+            "price": {
+              "value": "4.38",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+4.04%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "NEEQ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002840",
+            "name": "华统股份",
+            "market": "ab",
+            "price": {
+              "value": "16.61",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+3.42%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "fall_first": [
+          {
+            "code": "603237",
+            "name": "五芳斋实业",
+            "market": "ab",
+            "price": {
+              "value": "27.29",
+              "status": "down"
+            },
+            "ratio": {
+              "value": "-1.30%",
+              "status": "down"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002515",
+            "name": "金字火腿",
+            "market": "ab",
+            "price": {
+              "value": "5.03",
+              "status": "same"
+            },
+            "ratio": {
+              "value": "0.00%",
+              "status": "same"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002726",
+            "name": "龙大美食",
+            "market": "ab",
+            "price": {
+              "value": "7.47",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+0.81%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "000895",
+            "name": "双汇发展",
+            "market": "ab",
+            "price": {
+              "value": "26.25",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.16%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002330",
+            "name": "得利斯",
+            "market": "ab",
+            "price": {
+              "value": "5.48",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.48%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "603536",
+            "name": "惠发食品",
+            "market": "ab",
+            "price": {
+              "value": "7.96",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.66%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "605567",
+            "name": "春雪食品",
+            "market": "ab",
+            "price": {
+              "value": "12.7",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.68%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002661",
+            "name": "克明食品",
+            "market": "ab",
+            "price": {
+              "value": "9.38",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+1.85%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "600073",
+            "name": "上海梅林",
+            "market": "ab",
+            "price": {
+              "value": "7.13",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.00%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SS",
+            "url": "",
+            "webAppUrl": ""
+          },
+          {
+            "code": "002216",
+            "name": "三全食品",
+            "market": "ab",
+            "price": {
+              "value": "14.61",
+              "status": "up"
+            },
+            "ratio": {
+              "value": "+2.31%",
+              "status": "up"
+            },
+            "outMarketInfo": {},
+            "exchange": "SZ",
+            "url": "",
+            "webAppUrl": ""
+          }
+        ],
+        "riseCount": 24,
+        "fallCount": 1,
+        "memberCount": 26,
+        "minuteData": {
+          "priceinfo": null
+        }
+      }
+    ]
+  }
+}
