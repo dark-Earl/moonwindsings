@@ -1,0 +1,142 @@
+[
+  {
+    "index": "1",
+    "title": "浮空秘境",
+    "grade": "🌟8.9",
+    "picUrl": "https://img.tapimg.com/market/images/6ec363d7b8aaf5cd8966fc47d93a1408.png/appicon_m",
+    "type": "角色扮演·多人联机·放置"
+  },
+  {
+    "index": "2",
+    "title": "江湖人生",
+    "grade": "🌟7.6",
+    "picUrl": "https://img.tapimg.com/market/images/3e4936d4ed00dff8831b583785385304.png/appicon_m",
+    "type": "武侠·模拟·文字"
+  },
+  {
+    "index": "3",
+    "title": "香肠派对",
+    "grade": "🌟8.8",
+    "picUrl": "https://img.tapimg.com/market/images/5c6b2f5f589b813aa160fbc61f2f9e75.png/appicon_m",
+    "type": "射击·吃鸡战斗"
+  },
+  {
+    "index": "4",
+    "title": "因狄斯的谎言",
+    "grade": "🌟8.8",
+    "picUrl": "https://img.tapimg.com/market/images/76190ff985e7d781edf19115ce0164e9.png/appicon_m",
+    "type": "Roguelikedbg·卡牌"
+  },
+  {
+    "index": "5",
+    "title": "放置军团",
+    "grade": "🌟9.0",
+    "picUrl": "https://img.tapimg.com/market/images/e953a888e73f1c5dc77de11711984eec.jpg/appicon_m",
+    "type": "放置·养成·策略"
+  },
+  {
+    "index": "6",
+    "title": "RYCEAM",
+    "grade": "🌟7.3",
+    "picUrl": "https://img.tapimg.com/market/images/64405e77b1c8be3b005c533ba18123b2.jpg/appicon_m",
+    "type": "二次元·单机·手速"
+  },
+  {
+    "index": "7",
+    "title": "Phigros",
+    "grade": "🌟9.7",
+    "picUrl": "https://img.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png/appicon_m",
+    "type": "音游手速·节奏"
+  },
+  {
+    "index": "8",
+    "title": "僵尸猎人",
+    "grade": "🌟8.1",
+    "picUrl": "https://img.tapimg.com/market/images/22fe8778669dd193508de651b8942c03.png/appicon_m",
+    "type": "高自由度·射击·生存"
+  },
+  {
+    "index": "9",
+    "title": "预言奇谈",
+    "grade": "🌟8.9",
+    "picUrl": "https://img.tapimg.com/market/images/fc1386d6a86633ef85906758dd343cb8.png/appicon_m",
+    "type": "独立游戏·Steam移植·策略"
+  },
+  {
+    "index": "10",
+    "title": "晴空双子",
+    "grade": "🌟8.0",
+    "picUrl": "https://img.tapimg.com/market/images/48d36f8b13ea3bc2cb3118af995ac5b1.png/appicon_m",
+    "type": "养成·弹射·二次元"
+  },
+  {
+    "index": "11",
+    "title": "泰拉瑞亚",
+    "grade": "🌟9.3",
+    "picUrl": "https://img.tapimg.com/market/images/36e15cd2344c84ee72b445770b458750.jpg/appicon_m",
+    "type": "沙盒·像素·开放世界"
+  },
+  {
+    "index": "12",
+    "title": "火力苏打",
+    "grade": "🌟6.4",
+    "picUrl": "https://img.tapimg.com/market/images/72b2eaaf33c5ac5486d2c85f8a60dc41.png/appicon_m",
+    "type": "射击·竞技·多人联机"
+  },
+  {
+    "index": "13",
+    "title": "霓虹深渊",
+    "grade": "🌟7.5",
+    "picUrl": "https://img.tapimg.com/market/images/0851627aedba245a88f824f4cd17f443.png/appicon_m",
+    "type": "Roguelike·冒险·单机"
+  },
+  {
+    "index": "14",
+    "title": "抽卡监狱",
+    "grade": "🌟7.8",
+    "picUrl": "https://img.tapimg.com/market/images/62bb40596437adc3c4bfd9c88373a614.png/appicon_m",
+    "type": "Roguelike·生存·模拟"
+  },
+  {
+    "index": "15",
+    "title": "梦幻的城",
+    "grade": "🌟8.1",
+    "picUrl": "https://img.tapimg.com/market/images/f2826f5a9e7ec3eabea5cc7bd854fd26.png/appicon_m",
+    "type": "治愈·养成·唯美"
+  },
+  {
+    "index": "16",
+    "title": "Muse Dash",
+    "grade": "🌟9.2",
+    "picUrl": "https://img.tapimg.com/market/images/bb9c82eca9a31897eaa9c0d72623e353.png/appicon_m",
+    "type": "音游·二次元·跑酷"
+  },
+  {
+    "index": "17",
+    "title": "心动小镇",
+    "grade": "🌟9.1",
+    "picUrl": "https://img.tapimg.com/market/images/a4ef712bedd8105700e88244c34dc9c3.jpg/appicon_m",
+    "type": "多人联机·建造·角色扮演·"
+  },
+  {
+    "index": "18",
+    "title": "派对之星",
+    "grade": "🌟6.7",
+    "picUrl": "https://img.tapimg.com/market/images/70c9f1124bf4b76b1edf4a0a59b7902e.png/appicon_m",
+    "type": "格斗·同屏对战·动作"
+  },
+  {
+    "index": "19",
+    "title": "山海爻",
+    "grade": "🌟9.2",
+    "picUrl": "https://img.tapimg.com/market/images/ed33b1ac76972f83edc60e17e1aa7630.png/appicon_m",
+    "type": "冒险·动作·横版"
+  },
+  {
+    "index": "20",
+    "title": "无限深渊",
+    "grade": "🌟8.6",
+    "picUrl": "https://img.tapimg.com/market/images/90c8c29ed469b242cb79f02c5d804068.png/appicon_m",
+    "type": "动作"
+  }
+]

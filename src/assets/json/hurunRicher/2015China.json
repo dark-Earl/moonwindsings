@@ -1,0 +1,215 @@
+[
+  {
+    "index": "1",
+    "wealth": "￥2200",
+    "rank": "↑1",
+    "name": "王健林家族",
+    "age": "61",
+    "enterName": "万达",
+    "industry": "房地产文化",
+    "picUrl": "https://gss0.baidu.com/70cFfyinKgQFm2e88IuM_a/baike/pic/item/faedab64034f78f0d80b11ff70310a55b3191cbd.jpg"
+  },
+  {
+    "index": "2",
+    "wealth": "￥1450",
+    "rank": "↓1",
+    "name": "马云家族",
+    "age": "51",
+    "enterName": "阿里巴巴",
+    "industry": "电子商务金融服务",
+    "picUrl": "https://hiphotos.baidu.com/feed/pic/item/023b5bb5c9ea15ce246aef84ba003af33b87b2b2.jpg"
+  },
+  {
+    "index": "3",
+    "wealth": "￥1350",
+    "rank": "排名不变",
+    "name": "宗庆后家族",
+    "age": "70",
+    "enterName": "娃哈哈",
+    "industry": "饮料",
+    "picUrl": "https://res.hurun.cn/photo/000025_Zong_Qinghou.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1552937193,3629105256&fm=253&fmt=auto&app=138&f=JPEG?w=450&h=580"
+  },
+  {
+    "index": "4",
+    "wealth": "￥1200",
+    "rank": "↑1",
+    "name": "马化腾",
+    "age": "44",
+    "enterName": "腾讯",
+    "industry": "IT娱乐",
+    "picUrl": "https://dingyue.ws.126.net/jg7u3hFQfWFUH7x4YAMJI0El33v0YCxKAc3BkKIXM=JtN1523690397663.gif"
+  },
+  {
+    "index": "5",
+    "wealth": "￥920",
+    "rank": "↑5",
+    "name": "雷军",
+    "age": "46",
+    "enterName": "小米",
+    "industry": "手机投资",
+    "picUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F29%2F20200329053136_h3etN.thumb.400_0.gif&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1696601700&t=4c8ce40db304edb75b2eb78075964307"
+  },
+  {
+    "index": "6",
+    "wealth": "￥910",
+    "rank": "↑1",
+    "name": "严昊家族",
+    "age": "29",
+    "enterName": "苏太华系",
+    "industry": "基础建设",
+    "picUrl": "https://res.hurun.cn/photo/000010_Yan_Hao.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1646778491,1576015065&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=366"
+  },
+  {
+    "index": "7",
+    "wealth": "￥850",
+    "rank": "↓1",
+    "name": "李彦宏马东敏夫妇",
+    "age": "4745",
+    "enterName": "百度",
+    "industry": "搜索引擎",
+    "picUrl": "https://img.soogif.com/SyoLPdtYNrwRKTF8tQCQgLHFetpdq6Ex.gif_s400x0"
+  },
+  {
+    "index": "8",
+    "wealth": "￥830",
+    "rank": "↑16",
+    "name": "卢志强家族",
+    "age": "63",
+    "enterName": "泛海",
+    "industry": "房地产金融投资",
+    "picUrl": "https://res.hurun.cn/photo/000031_Lu_Zhiqiang.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=4170838702,4040780255&fm=253&fmt=auto&app=138&f=JPEG?w=769&h=500"
+  },
+  {
+    "index": "9",
+    "wealth": "￥810",
+    "rank": "↑2",
+    "name": "张近东",
+    "age": "52",
+    "enterName": "苏宁云商",
+    "industry": "零售房地产",
+    "picUrl": "https://res.hurun.cn/photo/000019_Zhang_Jindong.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=348645076,1812074397&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=260"
+  },
+  {
+    "index": "10",
+    "wealth": "￥650",
+    "rank": "↑9",
+    "name": "鲁冠球家族",
+    "age": "70",
+    "enterName": "万向",
+    "industry": "汽车制造业房地产农业",
+    "picUrl": "https://img0.baidu.com/it/u=1275561093,2157094224&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=400",
+    "picUrl2": "https://img0.baidu.com/it/u=2055447205,2206597272&fm=253&fmt=auto&app=120&f=JPEG?w=1098&h=800"
+  },
+  {
+    "index": "11",
+    "wealth": "￥650",
+    "rank": "↓2",
+    "name": "严彬",
+    "age": "61",
+    "enterName": "华彬",
+    "industry": "饮料地产投资",
+    "picUrl": "https://img1.baidu.com/it/u=2107775297,3072155434&fm=253&fmt=auto&app=138&f=JPEG?w=637&h=500",
+    "picUrl2": "https://img0.baidu.com/it/u=568059438,4146177780&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=744"
+  },
+  {
+    "index": "12",
+    "wealth": "￥630",
+    "rank": "↓9",
+    "name": "李河君",
+    "age": "48",
+    "enterName": "汉能",
+    "industry": "太阳能水电",
+    "picUrl": "https://img0.baidu.com/it/u=4139897078,2832970235&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=433",
+    "picUrl2": "https://img2.baidu.com/it/u=1042850161,1834960115&fm=253&fmt=auto&app=138&f=JPEG?w=481&h=330"
+  },
+  {
+    "index": "13",
+    "wealth": "￥600",
+    "rank": "↑3",
+    "name": "何享健何剑锋父子",
+    "age": "7348",
+    "enterName": "美的",
+    "industry": "家电制造",
+    "picUrl": "https://res.hurun.cn/photo/000004_He_Xiangjian.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=2305347794,3270185254&fm=253&fmt=auto&app=120&f=JPEG?w=1440&h=800"
+  },
+  {
+    "index": "14",
+    "wealth": "￥600",
+    "rank": "↑2",
+    "name": "许家印",
+    "age": "57",
+    "enterName": "恒大",
+    "industry": "房地产投资",
+    "picUrl": "https://5b0988e595225.cdn.sohucs.com/images/20181202/50bda419e07d4c5788292d389264742f.gif"
+  },
+  {
+    "index": "15",
+    "wealth": "￥550",
+    "rank": "↓1",
+    "name": "王文银刘结红夫妇",
+    "age": "47999",
+    "enterName": "正威",
+    "industry": "有色金属半导体",
+    "picUrl": "https://res.hurun.cn/photo/000017_Wang_WenYin.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=3360703945,1774580426&fm=253&fmt=auto&app=138&f=JPG?w=500&h=399"
+  },
+  {
+    "index": "16",
+    "wealth": "￥510",
+    "rank": "↑7",
+    "name": "丁磊",
+    "age": "44",
+    "enterName": "网易",
+    "industry": "IT娱乐",
+    "picUrl": "https://5b0988e595225.cdn.sohucs.com/images/20180921/783f9932827d47dcb7a689486e07cb12.gif"
+  },
+  {
+    "index": "17",
+    "wealth": "￥500",
+    "rank": "↑15",
+    "name": "郭广昌",
+    "age": "48",
+    "enterName": "复星",
+    "industry": "投资钢铁医药",
+    "picUrl": "https://res.hurun.cn/photo/000045_Guo_Guangchang.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=3979608557,3980783180&fm=253&fmt=auto&app=138&f=JPEG?w=580&h=330"
+  },
+  {
+    "index": "18",
+    "wealth": "￥500",
+    "rank": "新上榜",
+    "name": "周群飞郑俊龙夫妇",
+    "age": "4543",
+    "enterName": "蓝思科技",
+    "industry": "电子器件制造",
+    "picUrl": "https://res.hurun.cn/photo/000085_Zhou_Qunfei.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=625226630,382172304&fm=253&fmt=auto&app=138&f=JPEG?w=518&h=291"
+  },
+  {
+    "index": "19",
+    "wealth": "￥495",
+    "rank": "↓2",
+    "name": "陈丽华",
+    "age": "74",
+    "enterName": "富华",
+    "industry": "房地产紫檀博物馆",
+    "picUrl": "https://img1.baidu.com/it/u=2841742348,1364603887&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=598",
+    "picUrl2": "https://img2.baidu.com/it/u=4168950641,3449590353&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=763"
+  },
+  {
+    "index": "20",
+    "wealth": "￥485",
+    "rank": "↓9",
+    "name": "张士平家族",
+    "age": "999",
+    "enterName": "魏桥创业",
+    "industry": "纺织铝业",
+    "picUrl": "https://img1.baidu.com/it/u=299067758,558645093&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=741",
+    "picUrl2": "https://img1.baidu.com/it/u=1615101595,4226034967&fm=253&fmt=auto&app=120&f=JPEG?w=640&h=320"
+  }
+]

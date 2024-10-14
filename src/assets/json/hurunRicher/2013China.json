@@ -1,0 +1,218 @@
+[
+  {
+    "index": "1",
+    "wealth": "￥1350",
+    "rank": "↓1",
+    "name": "王健林",
+    "age": "59",
+    "enterName": "万达",
+    "industry": "房地产文化",
+    "picUrl": "https://gss0.baidu.com/70cFfyinKgQFm2e88IuM_a/baike/pic/item/faedab64034f78f0d80b11ff70310a55b3191cbd.jpg"
+  },
+  {
+    "index": "2",
+    "wealth": "￥1150",
+    "rank": "↑1",
+    "name": "宗庆后家族",
+    "age": "68",
+    "enterName": "娃哈哈",
+    "industry": "饮料",
+    "picUrl": "https://res.hurun.cn/photo/000025_Zong_Qinghou.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1552937193,3629105256&fm=253&fmt=auto&app=138&f=JPEG?w=450&h=580"
+  },
+  {
+    "index": "3",
+    "wealth": "￥620",
+    "rank": "↓4",
+    "name": "马化腾",
+    "age": "42",
+    "enterName": "腾讯",
+    "industry": "IT娱乐",
+    "picUrl": "https://dingyue.ws.126.net/jg7u3hFQfWFUH7x4YAMJI0El33v0YCxKAc3BkKIXM=JtN1523690397663.gif"
+  },
+  {
+    "index": "4",
+    "wealth": "￥515",
+    "rank": "↓31",
+    "name": "魏建军",
+    "age": "49",
+    "enterName": "长城汽车",
+    "industry": "汽车",
+    "picUrl": "https://res.hurun.cn/photo/000088_Wei_Jianjun.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=2759738902,36021979&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=282"
+  },
+  {
+    "index": "5",
+    "wealth": "￥510",
+    "rank": "↓6",
+    "name": "杨惠妍家族",
+    "age": "32",
+    "enterName": "碧桂园",
+    "industry": "房地产",
+    "picUrl": "https://res.hurun.cn/photo/000006_Yang_Huiyan.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=1692914221,3664179404&fm=253&fmt=auto&app=138&f=JPEG?w=370&h=500"
+  },
+  {
+    "index": "6",
+    "wealth": "￥500",
+    "rank": "↑3",
+    "name": "李彦宏",
+    "age": "45",
+    "enterName": "百度",
+    "industry": "搜索引擎",
+    "picUrl": "https://img.soogif.com/SyoLPdtYNrwRKTF8tQCQgLHFetpdq6Ex.gif_s400x0"
+  },
+  {
+    "index": "7",
+    "wealth": "￥500",
+    "rank": "↑2",
+    "name": "严彬",
+    "age": "59",
+    "enterName": "华彬",
+    "industry": "饮料房地产",
+    "picUrl": "https://img1.baidu.com/it/u=2107775297,3072155434&fm=253&fmt=auto&app=138&f=JPEG?w=637&h=500",
+    "picUrl2": "https://img0.baidu.com/it/u=568059438,4146177780&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=744"
+  },
+  {
+    "index": "8",
+    "wealth": "￥430",
+    "rank": "↓4",
+    "name": "许荣茂家族",
+    "age": "63",
+    "enterName": "世茂",
+    "industry": "房地产投资",
+    "picUrl": "https://p1.itc.cn/q_70/images03/20201008/d485a9616097416aaadf1406a9b72fcb.gif",
+    "picUrl2": "https://img0.baidu.com/it/u=1705325922,506442662&fm=253&fmt=auto&app=138&f=JPEG?w=330&h=390"
+  },
+  {
+    "index": "9",
+    "wealth": "￥395",
+    "rank": "↓12",
+    "name": "张近东",
+    "age": "50",
+    "enterName": "苏宁云商",
+    "industry": "家电零售房地产",
+    "picUrl": "https://res.hurun.cn/photo/000019_Zhang_Jindong.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=348645076,1812074397&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=260"
+  },
+  {
+    "index": "10",
+    "wealth": "￥375",
+    "rank": "↓19",
+    "name": "姜滨家族",
+    "age": "47",
+    "enterName": "歌尔声学",
+    "industry": "声学及多媒体产品",
+    "picUrl": "https://res.hurun.cn/photo/000199_Jiang_Bin.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=1685815577,966977137&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=750"
+  },
+  {
+    "index": "11",
+    "wealth": "￥375",
+    "rank": "↑1",
+    "name": "许家印",
+    "age": "55",
+    "enterName": "恒大",
+    "industry": "房地产投资",
+    "picUrl": "https://5b0988e595225.cdn.sohucs.com/images/20181202/50bda419e07d4c5788292d389264742f.gif"
+  },
+  {
+    "index": "12",
+    "wealth": "￥370",
+    "rank": "↑2",
+    "name": "陈丽华",
+    "age": "72",
+    "enterName": "富华",
+    "industry": "房地产",
+    "picUrl": "https://img1.baidu.com/it/u=2841742348,1364603887&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=598",
+    "picUrl2": "https://img2.baidu.com/it/u=4168950641,3449590353&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=763"
+  },
+  {
+    "index": "13",
+    "wealth": "￥370",
+    "rank": "↑6",
+    "name": "刘永行家族",
+    "age": "65",
+    "enterName": "东方希望",
+    "industry": "氧化铝重化工饲料",
+    "picUrl": "https://res.hurun.cn/photo/000030_Liu_Yongxing.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=36103913,1996496624&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=336"
+  },
+  {
+    "index": "14",
+    "wealth": "￥370",
+    "rank": "排名不变",
+    "name": "卢志强",
+    "age": "61",
+    "enterName": "泛海",
+    "industry": "房地产金融投资",
+    "picUrl": "https://res.hurun.cn/photo/000031_Lu_Zhiqiang.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=4170838702,4040780255&fm=253&fmt=auto&app=138&f=JPEG?w=769&h=500"
+  },
+  {
+    "index": "15",
+    "wealth": "￥365",
+    "rank": "↑10",
+    "name": "梁稳根",
+    "age": "57",
+    "enterName": "三一",
+    "industry": "重型机械",
+    "picUrl": "https://res.hurun.cn/photo/000082_Liang_Wengen.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1100755239,3318099933&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=750"
+  },
+  {
+    "index": "16",
+    "wealth": "￥350",
+    "rank": "↓9",
+    "name": "何享健家族",
+    "age": "71",
+    "enterName": "美的",
+    "industry": "家电",
+    "picUrl": "https://res.hurun.cn/photo/000004_He_Xiangjian.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=2305347794,3270185254&fm=253&fmt=auto&app=120&f=JPEG?w=1440&h=800"
+  },
+  {
+    "index": "17",
+    "wealth": "￥340",
+    "rank": "↑3",
+    "name": "刘永好家族",
+    "age": "62",
+    "enterName": "新希望",
+    "industry": "农业金融",
+    "picUrl": "https://res.hurun.cn/photo/000026_Liu_Yonghao.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=1584006822,1975011203&fm=253&fmt=auto&app=138&f=JPEG?w=746&h=500"
+  },
+  {
+    "index": "18",
+    "wealth": "￥310",
+    "rank": "排名不变",
+    "name": "鲁冠球家族",
+    "age": "68",
+    "enterName": "万向",
+    "industry": "汽车制造业房地产农业",
+    "picUrl": "https://img0.baidu.com/it/u=1275561093,2157094224&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=400",
+    "picUrl2": "https://img0.baidu.com/it/u=2055447205,2206597272&fm=253&fmt=auto&app=120&f=JPEG?w=1098&h=800"
+  },
+  {
+    "index": "19",
+    "wealth": "￥300",
+    "rank": "↑2",
+    "name": "孙广信",
+    "age": "51",
+    "enterName": "广汇",
+    "industry": "房地产汽车销售能源",
+    "picUrl": "https://res.hurun.cn/photo/000108_Sun_Guangxin.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=3170322436,642920284&fm=253&fmt=auto&app=120&f=JPEG?w=1139&h=745"
+  },
+  {
+    "index": "20",
+    "wealth": "￥300",
+    "rank": "新上榜",
+    "name": "王文银",
+    "age": "45",
+    "enterName": "正威",
+    "industry": "有色金属半导体",
+    "picUrl": "https://res.hurun.cn/photo/000017_Wang_WenYin.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=3360703945,1774580426&fm=253&fmt=auto&app=138&f=JPG?w=500&h=399"
+  }
+]

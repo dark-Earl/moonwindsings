@@ -1,0 +1,218 @@
+[
+  {
+    "index": "1",
+    "wealth": "￥3900",
+    "rank": "↑2",
+    "name": "钟睒睒",
+    "age": "67",
+    "enterName": "养生堂",
+    "industry": "饮料医疗保健",
+    "picUrl": "https://res.hurun.cn/photo/005216_Zhong_Shanshan.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=915508533,3081023453&fm=253&fmt=auto&app=120&f=JPEG?w=636&h=500"
+  },
+  {
+    "index": "2",
+    "wealth": "￥3400",
+    "rank": "↑28",
+    "name": "张一鸣",
+    "age": "38",
+    "enterName": "字节跳动",
+    "industry": "社交媒体",
+    "picUrl": "https://res.hurun.cn/photo/000022_Zhang_Yiming.jpg"
+  },
+  {
+    "index": "3",
+    "wealth": "￥3200",
+    "rank": "↑21",
+    "name": "曾毓群",
+    "age": "53",
+    "enterName": "宁德时代",
+    "industry": "锂电池",
+    "picUrl": "https://res.hurun.cn/photo/000057_Zeng_Yuqun.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=2443001309,1449061738&fm=253&fmt=auto&app=138&f=PNG?w=744&h=485"
+  },
+  {
+    "index": "4",
+    "wealth": "￥3170",
+    "rank": "↓2",
+    "name": "马化腾",
+    "age": "50",
+    "enterName": "腾讯",
+    "industry": "互联网服务",
+    "picUrl": "https://dingyue.ws.126.net/jg7u3hFQfWFUH7x4YAMJI0El33v0YCxKAc3BkKIXM=JtN1523690397663.gif"
+  },
+  {
+    "index": "5",
+    "wealth": "￥2550",
+    "rank": "↓4",
+    "name": "马云",
+    "age": "57",
+    "enterName": "阿里系",
+    "industry": "电子商务金融科技",
+    "picUrl": "https://hiphotos.baidu.com/feed/pic/item/023b5bb5c9ea15ce246aef84ba003af33b87b2b2.jpg"
+  },
+  {
+    "index": "6",
+    "wealth": "￥2290",
+    "rank": "↑2",
+    "name": "黄峥",
+    "age": "41",
+    "enterName": "拼多多",
+    "industry": "购物网站",
+    "picUrl": "https://res.hurun.cn/photo/000007_Huang_Zheng.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=3708677612,267626160&fm=253&fmt=auto&app=138&f=JPEG?w=748&h=500"
+  },
+  {
+    "index": "7",
+    "wealth": "￥2180",
+    "rank": "↑89",
+    "name": "魏建军韩雪娟",
+    "age": "5755",
+    "enterName": "长城",
+    "industry": "汽车制造",
+    "picUrl": "https://res.hurun.cn/photo/000088_Wei_Jianjun.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=2759738902,36021979&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=282"
+  },
+  {
+    "index": "8",
+    "wealth": "￥2150",
+    "rank": "新上榜",
+    "name": "李嘉诚",
+    "age": "93",
+    "enterName": "长江实业",
+    "industry": "投资",
+    "picUrl": "https://img2.baidu.com/it/u=3356700096,387350850&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=670",
+    "picUrl2": "https://img1.baidu.com/it/u=3963071919,3033343362&fm=253&fmt=auto&app=138&f=JPEG?w=778&h=500"
+  },
+  {
+    "index": "9",
+    "wealth": "￥2130",
+    "rank": "↓3",
+    "name": "何享健",
+    "age": "79",
+    "enterName": "美的",
+    "industry": "家电制造房地产",
+    "picUrl": "https://res.hurun.cn/photo/000004_He_Xiangjian.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=2305347794,3270185254&fm=253&fmt=auto&app=120&f=JPEG?w=1440&h=800"
+  },
+  {
+    "index": "10",
+    "wealth": "￥1930",
+    "rank": "↓6",
+    "name": "王卫",
+    "age": "51",
+    "enterName": "顺丰",
+    "industry": "快递",
+    "picUrl": "https://res.hurun.cn/photo/000012_Wang_Wei.jpg",
+    "picUrl2": "https://img2.baidu.com/it/u=2615338372,3603846375&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=510"
+  },
+  {
+    "index": "11",
+    "wealth": "￥1850",
+    "rank": "↓5",
+    "name": "杨惠妍",
+    "age": "40",
+    "enterName": "碧桂园",
+    "industry": "房地产教育",
+    "picUrl": "https://res.hurun.cn/photo/000006_Yang_Huiyan.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=1692914221,3664179404&fm=253&fmt=auto&app=138&f=JPEG?w=370&h=500"
+  },
+  {
+    "index": "12",
+    "wealth": "￥1790",
+    "rank": "↑8",
+    "name": "陈建华范红卫",
+    "age": "5054",
+    "enterName": "恒力",
+    "industry": "化纤石化房地产",
+    "picUrl": "https://res.hurun.cn/photo/000013_Chen_Jianhua.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=974703307,3431874930&fm=253&fmt=auto&app=138&f=JPEG?w=569&h=334"
+  },
+  {
+    "index": "13",
+    "wealth": "￥1750",
+    "rank": "↑11",
+    "name": "李书福",
+    "age": "58",
+    "enterName": "吉利",
+    "industry": "汽车制造",
+    "picUrl": "https://res.hurun.cn/photo/000015_Li_Shufu.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=788725130,1456846639&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=502"
+  },
+  {
+    "index": "14",
+    "wealth": "￥1710",
+    "rank": "↓6",
+    "name": "丁磊",
+    "age": "50",
+    "enterName": "网易",
+    "industry": "互联网技术",
+    "picUrl": "https://5b0988e595225.cdn.sohucs.com/images/20180921/783f9932827d47dcb7a689486e07cb12.gif"
+  },
+  {
+    "index": "15",
+    "wealth": "￥1700",
+    "rank": "新上榜",
+    "name": "李兆基",
+    "age": "93",
+    "enterName": "恒基兆业",
+    "industry": "房地产",
+    "picUrl": "https://img2.baidu.com/it/u=3655657266,961008979&fm=253&fmt=auto&app=120&f=JPEG?w=949&h=638",
+    "picUrl2": "https://img0.baidu.com/it/u=1209195017,2463176420&fm=253&fmt=auto&app=138&f=JPEG?w=334&h=499"
+  },
+  {
+    "index": "16",
+    "wealth": "￥1700",
+    "rank": "↓5",
+    "name": "秦英林钱瑛",
+    "age": "5655",
+    "enterName": "牧原",
+    "industry": "畜牧",
+    "picUrl": "https://res.hurun.cn/photo/000016_Qin_Yinglin.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=3570695227,1691770007&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=404"
+  },
+  {
+    "index": "17",
+    "wealth": "￥1580",
+    "rank": "↓6",
+    "name": "庞康",
+    "age": "65",
+    "enterName": "海天味业",
+    "industry": "调味品",
+    "picUrl": "https://res.hurun.cn/photo/000023_Pang_Kang.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=2450281685,1511674854&fm=253&fmt=auto&app=120&f=JPEG?w=640&h=444"
+  },
+  {
+    "index": "18",
+    "wealth": "￥1550",
+    "rank": "新上榜",
+    "name": "郑家纯",
+    "age": "73",
+    "enterName": "周大福",
+    "industry": "房地产",
+    "picUrl": "https://img1.baidu.com/it/u=3939526507,444983869&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=427",
+    "picUrl2": "https://img0.baidu.com/it/u=630817465,719448394&fm=253&fmt=auto&app=138&f=JPEG?w=570&h=380"
+  },
+  {
+    "index": "19",
+    "wealth": "￥1460",
+    "rank": "↓6",
+    "name": "王兴",
+    "age": "42",
+    "enterName": "美团",
+    "industry": "生活服务",
+    "picUrl": "https://res.hurun.cn/photo/000068_Wang_Xing.jpg",
+    "picUrl2": "https://img0.baidu.com/it/u=897875633,2411337618&fm=253&fmt=auto&app=120&f=JPEG?w=400&h=565"
+  },
+  {
+    "index": "20",
+    "wealth": "￥1420",
+    "rank": "↑63",
+    "name": "王传福",
+    "age": "55",
+    "enterName": "比亚迪",
+    "industry": "汽车充电电池",
+    "picUrl": "https://res.hurun.cn/photo/000097_Wang_Chuanfu.jpg",
+    "picUrl2": "https://img1.baidu.com/it/u=462098465,4078060407&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=399"
+  }
+]
