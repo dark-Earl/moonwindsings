@@ -27,11 +27,11 @@ export default {
   methods: {
     initData () {
       let that = this
-      let files = require.context('@/assets/images/imgShowArea/TravelHuangshan', true, /\.jpg$/).keys()
+      let files = require.context('@/assets/images/imgShowArea/TravelHuangshanPress', true, /\.jpg$/).keys()
       that.shuffle(files)
       files = files.slice(0,6)
       files.forEach((e) => {
-        let pic = require('@/assets/images/imgShowArea/TravelHuangshan' + e.slice(1))
+        let pic = require('@/assets/images/imgShowArea/TravelHuangshanPress' + e.slice(1))
         let temp = {'picUrl':pic}
         that.picShowListNew.push(temp)
       })
