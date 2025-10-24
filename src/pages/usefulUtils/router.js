@@ -6,5 +6,10 @@ router.addRoutes([
     meta: { title: '二维码生成', icon: '', needLogin: false},
     component: () => import('@/pages/usefulUtils/views/QRCode.vue')
   },
+  {
+    path: '/randomNum',
+    meta: { title: '随机数生成', icon: '', needLogin: false},
+    component: () => import('@/pages/usefulUtils/views/randomNum.vue')
+  },
 ])
 export default router

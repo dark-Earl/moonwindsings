@@ -132,6 +132,11 @@
             二维码生成
           </a>
         </a-menu-item>
+        <a-menu-item key="usefulUtils_3">
+          <a href="usefulUtils.html#/randomNum" target="_blank">
+            随机数生成
+          </a>
+        </a-menu-item>
       </a-sub-menu>
       <a-sub-menu key="fundDataDisplay">
         <span slot="title"><a-icon type="appstore" /><span>行业板块</span></span>
