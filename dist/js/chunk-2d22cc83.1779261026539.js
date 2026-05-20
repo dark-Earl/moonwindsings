@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22cc83"],{f564:function(n,a,c){"use strict";c.r(a);var p=function(){var n=this,a=n._self._c;return a("app-main")},t=[],u=c("cd4a"),e={name:"BlankLayout",components:{AppMain:u["a"]}},o=e,l=c("2877"),s=Object(l["a"])(o,p,t,!1,null,null,null);a["default"]=s.exports}}]);

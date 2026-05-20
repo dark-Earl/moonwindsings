@@ -70,6 +70,11 @@
             黄山游记
           </a>
         </a-menu-item>
+        <a-menu-item key="imagePresenter_4">
+          <a href="imagePresenter.html#/imgShowFireWorks" target="_blank">
+            烟火随笔
+          </a>
+        </a-menu-item>
       </a-sub-menu>
       <a-sub-menu key="miniGames">
         <span slot="title"><a-icon type="appstore" /><span>小游戏</span></span>

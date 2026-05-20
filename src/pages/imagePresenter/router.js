@@ -11,5 +11,10 @@ router.addRoutes([
     meta: { title: '黄山游记', icon: '', needLogin: false},
     component: () => import('@/pages/imagePresenter/views/imgShowHuangshanTravel.vue')
   },
+  {
+    path: '/imgShowFireWorks',
+    meta: { title: '烟火随笔', icon: '', needLogin: false},
+    component: () => import('@/pages/imagePresenter/views/imgShowFireWorks.vue')
+  },
 ])
 export default router
