@@ -25,11 +25,6 @@ router.addRoutes([
     path: '/imgShowMineAI',
     meta: { title: '图片展示', icon: '', needLogin: false},
     component: () => import('@/pages/imagePresenter/views/imgShowMineAI.vue')
-  },
-  {
-    path: '/imgShowPicDemo1',
-    meta: { title: '图片展示', icon: '', needLogin: false},
-    component: () => import('@/pages/imagePresenter/views/imgShowPicDemo1.vue')
-  },
+  }
 ])
 export default router
