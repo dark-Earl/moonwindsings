@@ -21,7 +21,7 @@
         <span slot="title"><a-icon type="appstore" /><span>测试页</span></span>
         <a-menu-item key="atest_3">
           <a href="atest.html#/antVueTest" target="_blank">
-            组件测试
+            组件测试0
           </a>
         </a-menu-item>
         <a-menu-item key="atest_4">
@@ -135,6 +135,11 @@
         <a-menu-item key="usefulUtils_3">
           <a href="usefulUtils.html#/QRCode" target="_blank">
             二维码生成
+          </a>
+        </a-menu-item>
+        <a-menu-item key="usefulUtils_3">
+          <a href="usefulUtils.html#/randomNum" target="_blank">
+            随机数生成
           </a>
         </a-menu-item>
       </a-sub-menu>
